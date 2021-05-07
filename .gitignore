@@ -5,5 +5,5 @@ _site
 .history
 .vscode/*
 vendor
-_config.yml
+# _config.yml
 
