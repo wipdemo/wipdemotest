@@ -1,0 +1,63 @@
+<div class="table-container table-responsive">
+  <div class="not-found" style="display: none;">
+      <h2 class='not-found-text'>No Result Found</h2>
+  </div>
+  <table name="event-result" class="table table-bordered event-result-table">
+    <thead>
+      <tr>
+        <th data-tsort-type="number">Overall Rank</th>
+        <th data-tsort-type="number">Gender Rank</th>
+        {% if page.enableCategoryRank == true %}
+        <th data-tsort-type="number">Category Rank</th>
+        {% endif %}
+        <th data-tsort="disabled">Bib</th>
+        <th data-tsort="disabled">Name</th>
+        <th data-tsort="disabled">Category</th>        
+        
+        <th data-tsort="disabled">Country</th>
+        <th data-tsort="disabled">Gender</th>
+        {% if page.enableFinishDistance != true %}
+        <th data-tsort-type="number">Finish Time</th>
+        {% endif %}
+        {% if page.enableFinishDistance == true %}
+        <th>Finish Distance</th>
+        {% endif %}
+      </tr>
+    </thead>
+    <tbody>
+        <!-- Sorting by category -->
+      {% assign sorted-events = site.events | sort: 'overall_rank' | where: 'event_category', page.collectionTag | where: 'category_km', page.collectionCategory %}
+      {% for result in sorted-events %}
+      <tr>
+          <td>{{ result.overall_rank }}</td>
+
+          <td>{{ result.rank }} {{ result.gender_rank }}</td>
+          
+          {% if page.enableCategoryRank == true %}
+          <td>{{ result.category_rank }}</td>
+          {% endif %}
+
+          <td> {{ result.bib }} {{ result.bib_number }}</td>
+          
+          <td>
+              <a href="{{ result.url }}">{{ result.first_name }} {{ result.last_name }} {{ result.name }}</a>
+              <i style="display: none;">{{ result.bib }} {{ result.first_name }} {{ result.last_name }} {{ result.name }}</i>
+          </td> 
+          
+          <td>{{ result.category }}</td>
+
+          <td>{{ result.country }}</td>
+          <td>{{ result.gender | slice: 0, 1 }}</td>
+
+          {% if result.finish_time != null or result.race_time != null or result.finish != null %}
+          <td> {{ result.finish_time | replace: '-', ':' }}{{ result.race_time | replace: '-', ':' }}{{ result.finish | replace: '-', ':' }}</td>
+          {% endif %}
+
+          {% if result.finish-distance != null %}
+          <td> {{ result.finish-distance | replace: '-', ':' }}</td>
+          {% endif %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>

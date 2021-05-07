@@ -1,0 +1,177 @@
+.top-text-container
+  .top-text
+    padding-top: 30px
+    padding-bottom: 30px
+
+.navbar-extra
+  color: white
+  text-decoration: none
+  &:hover
+    color: white
+    opacity: 0.7
+    text-decoration: none
+  
+.event-wrapper
+  max-width: 1400px
+  width: 100%
+
+  .filter-container
+    padding-left: 5px
+    padding-right: 5px
+
+    #search-name
+      color: #ffffff
+      width: 100%
+      border-radius: 0
+      display: block
+      height: 50px
+      border: none
+      padding: 0 15px
+      background-color: #212121
+      outline: none
+      box-shadow: none
+      -webkit-appearance: none
+
+    .filters-select
+      outline: none
+      border-radius: 0
+      height: 50px
+      -webkit-appearance: none
+      -moz-appearance: none
+      background-position: right 50%
+      background-repeat: no-repeat
+      background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAMCAYAAABSgIzaAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NDZFNDEwNjlGNzFEMTFFMkJEQ0VDRTM1N0RCMzMyMkIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NDZFNDEwNkFGNzFEMTFFMkJEQ0VDRTM1N0RCMzMyMkIiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo0NkU0MTA2N0Y3MUQxMUUyQkRDRUNFMzU3REIzMzIyQiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo0NkU0MTA2OEY3MUQxMUUyQkRDRUNFMzU3REIzMzIyQiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PuGsgwQAAAA5SURBVHjaYvz//z8DOYCJgUxAf42MQIzTk0D/M+KzkRGPoQSdykiKJrBGpOhgJFYTWNEIiEeAAAMAzNENEOH+do8AAAAASUVORK5CYII=)
+      padding: .5em
+      padding-right: 1.5em
+      border: none
+      // background-color: transparent
+      border-right: 1px solid #e2e2e2
+      border-bottom: 1px solid #e2e2e2
+      border-top: 1px solid #e2e2e2
+    .reset-isotope
+      background-color: #ffc107
+      border-radius: 0
+      height: 50px
+
+  .event-container
+    position: relative
+    
+    .grid
+      position: relative
+      min-height: calc(100vh - 184px)
+
+      .event-item
+        padding: 5px
+        min-height: 340px
+        min-width: 290px
+        position: relative
+      
+        .event-item-link
+          position: relative
+          text-decoration: none
+          width: 100%
+          display: block
+          height: 340px
+
+          .event-caption
+            position: absolute
+            bottom:  10px
+            left: 10px
+            
+            .event-title
+              color: rgba(255,255,255,1)
+              font-size: 20px
+              font-weight: 500
+              letter-spacing: 0.15px
+              line-height: normal
+              margin-bottom: 5px
+
+            .event-location-wrapper
+              margin-bottom: 5px
+
+            .event-location
+              color: rgba(255,255,255,0.87)
+              font-size: 16px
+              letter-spacing: 0.15px
+              line-height: normal
+
+            .event-date
+              color: rgba(255,255,255,0.67)
+              font-size: 16px
+              letter-spacing: 0.15px
+
+            .event-category-wrapper
+              margin-top: 8px
+
+            .event-race-categories
+              margin-bottom: 10px
+
+              .event-race-link
+                color: rgba(255,255,255,0.80)
+                font-size: 14px
+                font-weight: 500
+                letter-spacing: 0.1px
+                background-color: #0264BE
+                padding: 3px 7px
+                border-radius: 5px
+                display: inline-block
+                margin-bottom: 5px
+
+            .event-organizer
+              color: rgba(255,255,255,0.67)
+              font-size: 16px
+
+            .event-timing-solution
+              color: rgba(255,255,255,1)
+              font-size: 16px
+          
+          .hidden-search-filter
+            display: none
+
+        
+    #no-result
+      display: none
+
+      #result-text
+        text-align: center
+        marign: 0
+
+      &.active
+        display: block
+        opacity: 1
+        position: relative
+        top: 15%
+        left: 0
+        right: 0
+
+@media (max-width: 991px)
+  .event-wrapper
+    .filter-container
+      .filters-select
+        border: 1px solid #e2e2e2
+
+@media (max-width: 767px)
+  .event-wrapper
+    padding-left: 15px
+    padding-right:  15px
+
+    .filter-container
+      padding: 0
+
+    .event-container
+      .grid
+        .event-item
+          padding-left: 0
+          padding-right: 0
+
+  .top-text-container
+    .top-text
+      font-size: 16px
+      padding: 15px
+
+@media (max-width: 575px)
+  .navbar-extra
+    margin-right: 15px
+
+
+        

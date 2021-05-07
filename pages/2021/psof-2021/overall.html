@@ -1,0 +1,29 @@
+---
+permalink: /events/posf-2021/overall
+layout: default
+enableCategoryRank: true
+collectionTag: posf-2021
+collectionCategory: overall
+css: event-result.css
+event-title: "NINJA BOX - POSF QUALIFIER"
+event-location: "PHO, Taguig City, Philippines"
+event-date: 2021-02-27
+event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1614821630/logo/2021/NINJA_BOX_POSF_QUALIFIERS_rh9bqm.png
+
+category-title1: Overall
+category-url1: /events/posf-2021/overall
+
+category-title2: PARA
+category-url2: /events/posf-2021/para
+
+javascript: > 
+  <script type="text/javascript" src="/js/tablefilter.min.js"></script>
+  <script type="text/javascript" src="/js/filtable.min.js"></script>
+  <script type="text/javascript" src="/js/event-result.js"></script>
+---
+
+<div class="container">
+  {% include event-result/table-banner.html %}
+  {% include event-result/table-filter.html %}
+  {% include event-result/table-result.html %}
+</div>

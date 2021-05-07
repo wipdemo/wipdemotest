@@ -1,0 +1,32 @@
+---
+permalink: /events/evil-trails-2020/50K
+layout: default
+enableCategoryRank: false
+collectionTag: evil-trails-2020
+collectionCategory: 50K
+css: event-result.css
+event-title: Evil Trails 2020
+event-location: Phitsalunok Thailand
+event-date: 2020-01-19
+event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1579480618/logo/evil-trails_wm80bv.jpg
+
+category-title1: 15K
+category-url1: /events/evil-trails-2020/15K
+
+category-title2: 30K
+category-url2: /events/evil-trails-2020/30K
+
+category-title3: 50K
+category-url3: /events/evil-trails-2020/50K
+
+javascript: > 
+  <script type="text/javascript" src="/js/tablefilter.min.js"></script>
+  <script type="text/javascript" src="/js/filtable.min.js"></script>
+  <script type="text/javascript" src="/js/event-result.js"></script>
+---
+
+<div class="container">
+  {% include event-result/table-banner.html %}
+  {% include event-result/table-filter.html %}
+  {% include event-result/table-result.html %}
+</div>

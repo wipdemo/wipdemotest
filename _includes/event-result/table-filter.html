@@ -1,0 +1,33 @@
+<div class="table-filters d-md-flex">
+  {% assign eventCountry = site.events | where: 'event_category', page.collectionTag | where: 'category_km', page.collectionCategory  | map: 'country' | join: ',' | join: ',' | split: ',' | uniq | sort %}
+  {% assign categoryFilter = site.events | where: 'event_category', page.collectionTag | where: 'category_km', page.collectionCategory  | map: 'category' | join: ',' | join: ',' | split: ',' | uniq | sort %}
+
+  <input class="search-filter col-md-3 col-12" type="text" placeholder="Search Name" {% if page.enableCategoryRank == true %} data-filter-col="4" {% else %} data-filter-col="3"{% endif %}>
+
+  <div class="d-flex col-md-9 col-12 no-padding-gutter">
+    
+    <select id="filter-category" class="filters-select col-3" {% if page.enableCategoryRank == true %} data-filter-col="5" {% else %} data-filter-col="4" {% endif %}>
+      <option value="">Category</option>
+      {% for filterCategory in categoryFilter %}
+      <option value="{{ filterCategory }}" data-filter-col="5">{{ filterCategory }}</option>
+      {% endfor %}
+    </select>
+
+    <select id="filter-country" class="filters-select  col-3" {% if page.enableCategoryRank == true %} data-filter-col="6" {% else %} data-filter-col="5" {% endif %}>
+      <option value="">Country</option>
+      {% for filterCountry in eventCountry %}
+      {% if filterCountry != "" %}
+      <option value="{{ filterCountry}}">{{ filterCountry }}</option>
+      {% endif %}
+      {% endfor %}
+    </select>
+
+    <select id="filter-gender" class="filters-select  col-3" {% if page.enableCategoryRank == true %} data-filter-col="7" {% else %} data-filter-col="6"{% endif %}>
+      <option value="">Gender</option>
+      <option value="m">Male</option>
+      <option value="f">Female</option>
+    </select>
+
+    <button class="reset-filters btn col-3 no-padding-gutter" type="button">Reset Filter</button>
+  </div>
+</div>

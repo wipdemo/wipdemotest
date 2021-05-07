@@ -1,0 +1,31 @@
+---
+permalink: /events/posf2020/ninja
+layout: default
+enableCategoryRank: true
+collectionTag: posf2020
+collectionCategory: ninja
+css: event-result.css
+event-title: POSF Conquer the Leaderboard
+event-location: Pretty Huge Obstacles, Taguig City, Philippines
+event-date: 2020-12-12
+event-logo: https://res.cloudinary.com/raceyaya/image/upload/v1607997702/logo/2020/Conquer_the_leaderboard_bvkmom.jpg
+
+category-title1: Ninja leaderboard
+category-url1: /events/posf2020/ninja
+
+category-title2: PARA OCR
+category-url2: /events/posf2020/ocr
+
+
+
+javascript: > 
+  <script type="text/javascript" src="/js/tablefilter.min.js"></script>
+  <script type="text/javascript" src="/js/filtable.min.js"></script>
+  <script type="text/javascript" src="/js/event-result.js"></script>
+---
+
+<div class="container">
+  {% include event-result/table-banner.html %}
+  {% include event-result/table-filter.html %}
+  {% include event-result/table-result.html %}
+</div>

@@ -1,0 +1,82 @@
+<div class="container event-wrapper">
+	<div class="top-text-container">
+		<h4 class="top-text text-center">Find here all the race results from your running, triathlon, duathlon, obstacle course race, other endurance sports powered by RaceYaya Timing Solutions and other partner providers.</h4>
+	</div>
+	
+	<div class="filter-container row no-margin-gutter">
+		<div class="filter-search-container col-md-3 col-12 no-margin-gutter no-padding-gutter">
+				<input type="text" placeholder="Search" class="inputSearch form-control" id="search-name">
+		</div>
+		<div class="filters col-md-7 col-12 no-padding-gutter d-flex">
+      <select class="filters-select category-filter-container col-4" value-group="category">
+				<option value="*">Event Type</option>
+				{% for categoryFilter in site.data.eventButtonFilter[0].filter-list %}
+				<option value=".{{ categoryFilter.filter | downcase }}">{{ categoryFilter.name }}</option>
+				{% endfor %}
+      </select>
+		
+			{% assign eventCountry = site.data.eventCategories | map: 'country' | join: ',' | join: ',' | split: ',' | uniq | sort %}
+      <select class="filters-select category-filter-container col-3" value-group="category">
+				<option value="*">Country</option>
+				{% for countryLoop in eventCountry %}
+				<option value=".{{ countryLoop | downcase }}">{{ countryLoop }}</option>
+				{% endfor %}
+      </select>
+      
+      <select class="filters-select month-filter-container col-3" value-group="month">
+				<option value="*">Month</option>
+				{% for categoryFilter in site.data.eventButtonFilter[1].filter-list %}
+				<option value=".{{ categoryFilter.filter | downcase }}">{{ categoryFilter.filter }}</option>
+				{% endfor %}
+      </select>
+  
+      <select class="filters-select year-filter-container col-2" value-group="year">
+          <option value="*">Year</option>
+          {% for categoryFilter in site.data.eventButtonFilter[2].filter-list %}
+          <option value=".{{ categoryFilter.filter }}">{{ categoryFilter.filter }}</option>
+          {% endfor %}
+			</select>
+		</div>
+		<div class="reset-container col-md-2 no-padding-gutter">
+			<button class="reset-isotope btn col-12 no-padding-gutter" type="button">Reset Filter</button>
+		</div>
+	</div>
+
+	<div class="event-container">
+		<div class="grid">
+				{% assign sorted-event = (site.data.eventCategories | sort: 'event-date') | reverse %}
+				{% for event-list in sorted-event %}
+
+				{% assign countryPresent = event-list.country %}
+				<div data-id="{{ event-list.id }}" class="event-item col-lg-4 col-md-6 {{ event-list.month | downcase }} {{ event-list.year }} {{ event-list.country | downcase }} {% for filterList in event-list.event-filter %} {{ filterList.filter }} {% endfor %}">
+						<div class="event-item-link" style="background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8) ),url('{{ event-list.banner-big }}'); background-position: center center; background-color: #0264BE; background-size: contain; background-repeat: no-repeat !important;">
+								<div class="event-caption">
+										<span class="event-title d-block">{{ event-list.title }}</span>
+										<div class="event-location-wrapper">
+												<span class="event-location">{{ event-list.city }}, {{ event-list.country }} - </span>
+												<span class="event-date">{{ event-list.month }} {{ event-list.year }}</span>
+										</div>
+
+										<div class="event-race-categories">
+											{% for race-list in event-list.race-categories %}
+											<a href="/events{{race-list.link}}" class="event-race-link">{{ race-list.title }}</a>
+											{% endfor %}
+										</div>
+
+										<span class="event-organizer d-block">Organizer: {{ event-list.event-organizer }}</span>
+
+										<span class="event-timing-solution">Timing Solution Powered by: {{ event-list.timing-solution }}</span>
+
+										<span class="hidden-search-filter">{{ event-list.city }} {{ event-list.country }} {{ event-list.category }}</span>
+										<span class="hidden-search-filter">{{ event-list.city }} {% for filterList in event-list.event-filter %}{{ filterList.filter }} {% endfor %}</span>
+										<span class="hidden-search-filter">{{ event-list.country }} {{ event-list.category }}</span>
+								</div>
+						</div>
+				</div>
+				{% endfor %}
+				<div id="no-result">
+					<h2 id="result-text">Sorry, no event result found.</h2>
+			</div>
+		</div>
+	</div>
+</div>

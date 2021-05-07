@@ -1,0 +1,67 @@
+- id: 1
+  title: Select Category
+  filter-list:
+    - name: Ultramarathon 
+      filter: ultramarathon 
+
+    - name: Trail run
+      filter: trailrun
+
+    - name: Road run 
+      filter: roadrun
+
+    - name: Triathlon 
+      filter: triathlon 
+
+    - name: OCR 
+      filter: ocr
+
+    - name: Duathlon 
+      filter: duathlon
+
+    - name: Crossfit 
+      filter: crossfit
+
+    - name: Others 
+      filter: others
+
+    - name: Fitness 
+      filter: fitness 
+
+    - name: Swim 
+      filter: swim 
+
+    - name: Fun Run
+      filter: funrun
+
+    - name: Virtual Run
+      filter: virtualrun
+
+
+- id: 2
+  title: Select Month
+  filter-list:
+    - filter: January
+    - filter: February
+    - filter: March
+    - filter: April
+    - filter: May
+    - filter: June
+    - filter: July
+    - filter: August
+    - filter: September
+    - filter: October
+    - filter: November
+    - filter: December
+
+- id: 3
+  name: Select Year
+  filter-list:
+    - filter: 2021
+    - filter: 2020
+    - filter: 2019
+    - filter: 2018
+    - filter: 2017
+    - filter: 2016
+    
+  

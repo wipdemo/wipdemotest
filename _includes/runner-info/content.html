@@ -1,0 +1,663 @@
+<section class="runner-info">
+  <div class="container">
+    <div class="banner-container">
+			<div class="d-sm-flex justify-content-center text-center text-sm-left">
+				<div class="col-xs-12 {% if page.event-logo == null %} d-none {% endif %}">
+						<img class="banner-logo" src="{{ page.event-logo }}"/>
+				</div>
+				<div class="just-content-start col-xs-12">
+					<h4>{{ page.event-title }}</h4>
+					<span class="">{{ page.event-location }}, </span>
+					<span class="">{{ page.event-date }} </span> 
+				</div>
+			</div>     
+		</div>
+		
+    <div class="runner-content">
+			<div class="runner-details row">
+				<div class="left-section col-6">
+					<div class="content-container">
+							<span class="content-title">Name</span>
+							<span class="content-value">{{ page.first_name }}  {{ page.last_name }} {{page.name}}</span>
+					</div>
+
+					{% if page.team_name != null %}
+					<div class="content-container">
+							<span class="content-title">Team / Sponsor</span>
+							<span class="content-value">{{ page.team_name }}</span>
+					</div>
+					{% endif %}
+					
+					<div class="content-container">
+							<span class="content-title">Bib #</span>
+							<span class="content-value">{{ page.bib }}</span>
+					</div>
+
+					<div class="content-container">
+						<span class="content-title">Gender / Category</span>
+						<span class="content-value">
+							{% if page.gender == 'M' %}
+							Male
+							{% elsif page.gender == 'F' %}
+							Female
+							{% else %}
+							{{ page.gender }}
+							{% endif %}
+						</span>
+						<span class="content-value"> / {{ page.category_km }}/ {{ page.category }}</span>
+					</div>
+
+					{% if page.certificate != null %}
+					<div class="content-container">
+						<a class="btn btn-success" href="{{ page.certificate }}" target="_blank">Certificate</a>
+					</div>
+					{% endif %}
+				</div>
+
+				<div class="right-section col-6 ">
+					{% if page.finish_time != null or page.race_time != null or page.finish != null %}
+					<div class="content-container">
+							<i class="material-icons">flag</i>
+							<span class="content-title">Finish Time</span>
+							<span class="content-value"> {{ page.race_time | replace: '-', ':' }}{{ page.finish_time | replace: '-', ':' }}{{ page.finish | replace: '-', ':' }}</span>
+					</div>
+					{% endif %}
+
+					{% if page.finish-distance != null %}
+					<div class="content-container">
+							<i class="material-icons">flag</i>
+							<span class="content-title">Finish Distance</span>
+							<span class="content-value"> {{ page.finish-distance | replace: '-', ':' }}</span>
+					</div>
+					{% endif %}
+
+					<div class="content-container">
+							<span class="content-title"> Overall Rank</span>
+							<span class='content-value'> {{ page.overall_rank }}</span>
+					</div>
+
+					<div class="content-container">
+						<span class="content-title">Gender Rank</span>
+						<span class='content-value'> {{ page.gender_rank }} {{ page.rank }}</span>
+					</div>
+				</div>
+			</div>
+		</div>
+
+    <div class="runner-race-content table-responsive">
+			<h6 class="banner-text">Race Info</h6>
+			<table class="table table-bordered">
+				<tbody>
+					{% if page.start != null %}
+					<tr>
+						<th>Start</th>
+						<td>{{ page.start | replace: '-', ':'}}</td>
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint2 != null %}
+					<tr>
+							<th>{{ page.checkpoint-name2 }}</th>
+							<td>{{ page.checkpoint2 | replace: '-', ':'}}</td>
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint3 != null %}
+					<tr>
+							<th>{{ page.checkpoint-name3 }}</th>
+							<td>{{ page.checkpoint3 | replace: '-', ':'}}</td>
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint4 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name4 }}</th>
+						<td>{{ page.checkpoint4 | replace: '-', ':'}}</td>
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint5 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name5 }}</th>
+						<td>{{ page.checkpoint5 | replace: '-', ':'}}</td>
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint6 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name6 }}</th>
+						<td>{{ page.checkpoint6 | replace: '-', ':'}}</td>
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint7 != null %}
+					<tr>
+							<th>{{ page.checkpoint-name7 }}</th>
+							<td>{{ page.checkpoint7 | replace: '-', ':'}}</td>
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint8 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name8 }}</th>
+						<td>{{ page.checkpoint8 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint9 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name9 }}</th>
+						<td>{{ page.checkpoint9 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint10 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name10 }}</th>
+						<td>{{ page.checkpoint10 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint11 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name11 }}</th>
+						<td>{{ page.checkpoint11 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint12 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name12 }}</th>
+						<td>{{ page.checkpoint12 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint13 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name13 }}</th>
+						<td>{{ page.checkpoint13 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint14 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name14 }}</th>
+						<td>{{ page.checkpoint14 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint15 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name15 }}</th>
+						<td>{{ page.checkpoint15 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint16 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name16 }}</th>
+						<td>{{ page.checkpoint16 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint17 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name17 }}</th>
+						<td>{{ page.checkpoint17 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint18 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name18 }}</th>
+						<td>{{ page.checkpoint18 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint19 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name19 }}</th>
+						<td>{{ page.checkpoint19 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint20 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name20 }}</th>
+						<td>{{ page.checkpoint20 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint21 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name21 }}</th>
+						<td>{{ page.checkpoint21 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint22 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name22 }}</th>
+						<td>{{ page.checkpoint22 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint23 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name23 }}</th>
+						<td>{{ page.checkpoint23 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint24 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name24 }}</th>
+						<td>{{ page.checkpoint24 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint25 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name25 }}</th>
+						<td>{{ page.checkpoint25 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint26 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name26 }}</th>
+						<td>{{ page.checkpoint26 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint27 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name27 }}</th>
+						<td>{{ page.checkpoint27 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint28 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name28 }}</th>
+						<td>{{ page.checkpoint28 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint29 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name29 }}</th>
+						<td>{{ page.checkpoint29 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint30 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name30 }}</th>
+						<td>{{ page.checkpoint30 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint31 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name31 }}</th>
+						<td>{{ page.checkpoint31 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint32 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name32 }}</th>
+						<td>{{ page.checkpoint32 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint33 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name33 }}</th>
+						<td>{{ page.checkpoint33 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint34 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name34 }}</th>
+						<td>{{ page.checkpoint34 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint35 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name35 }}</th>
+						<td>{{ page.checkpoint35 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint36 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name36 }}</th>
+						<td>{{ page.checkpoint36 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint37 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name37 }}</th>
+						<td>{{ page.checkpoint37 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint38 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name38 }}</th>
+						<td>{{ page.checkpoint38 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint39 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name39 }}</th>
+						<td>{{ page.checkpoint39 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint40 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name40 }}</th>
+						<td>{{ page.checkpoint40 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint41 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name41 }}</th>
+						<td>{{ page.checkpoint41 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint42 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name42 }}</th>
+						<td>{{ page.checkpoint42 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint43 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name43 }}</th>
+						<td>{{ page.checkpoint43 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint44 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name44 }}</th>
+						<td>{{ page.checkpoint44 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint45 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name45 }}</th>
+						<td>{{ page.checkpoint45 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint46 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name46 }}</th>
+						<td>{{ page.checkpoint46 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint47 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name47 }}</th>
+						<td>{{ page.checkpoint47 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint48 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name48 }}</th>
+						<td>{{ page.checkpoint48 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint49 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name49 }}</th>
+						<td>{{ page.checkpoint49 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint50 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name50 }}</th>
+						<td>{{ page.checkpoint50 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint51 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name51 }}</th>
+						<td>{{ page.checkpoint51 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint52 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name52 }}</th>
+						<td>{{ page.checkpoint52 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint53 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name53 }}</th>
+						<td>{{ page.checkpoint53 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint54 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name54 }}</th>
+						<td>{{ page.checkpoint54 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint55 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name55 }}</th>
+						<td>{{ page.checkpoint55 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint56 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name56 }}</th>
+						<td>{{ page.checkpoint56 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint57 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name57 }}</th>
+						<td>{{ page.checkpoint57 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint58 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name58 }}</th>
+						<td>{{ page.checkpoint58 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint59 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name59 }}</th>
+						<td>{{ page.checkpoint59 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint60 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name60 }}</th>
+						<td>{{ page.checkpoint60 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint61 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name61 }}</th>
+						<td>{{ page.checkpoint61 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint62 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name62 }}</th>
+						<td>{{ page.checkpoint62 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint63 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name63 }}</th>
+						<td>{{ page.checkpoint63 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint64 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name64 }}</th>
+						<td>{{ page.checkpoint64 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint65 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name65 }}</th>
+						<td>{{ page.checkpoint65 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint66 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name66 }}</th>
+						<td>{{ page.checkpoint66 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint67 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name67 }}</th>
+						<td>{{ page.checkpoint67 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint68 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name68 }}</th>
+						<td>{{ page.checkpoint68 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint69 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name69 }}</th>
+						<td>{{ page.checkpoint69 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint70 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name70 }}</th>
+						<td>{{ page.checkpoint70 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint71 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name71 }}</th>
+						<td>{{ page.checkpoint71 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint72 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name72 }}</th>
+						<td>{{ page.checkpoint72 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint73 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name73 }}</th>
+						<td>{{ page.checkpoint73 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint74 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name74 }}</th>
+						<td>{{ page.checkpoint74 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint75 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name75 }}</th>
+						<td>{{ page.checkpoint75 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint76 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name76 }}</th>
+						<td>{{ page.checkpoint76 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint77 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name77 }}</th>
+						<td>{{ page.checkpoint77 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint78 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name78 }}</th>
+						<td>{{ page.checkpoint78 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint79 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name79 }}</th>
+						<td>{{ page.checkpoint79 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.checkpoint80 != null %}
+					<tr>
+						<th>{{ page.checkpoint-name80 }}</th>
+						<td>{{ page.checkpoint80 | replace: '-', ':'}}</td>	
+					</tr>
+					{% endif %}
+
+					{% if page.finish != null or page.finish_time != null %}
+					<tr>
+						<th>Finish</th>
+						<td>{{ page.finish | replace: '-', ':'}}{{ page.finish_time | replace: '-', ':'}}</td>
+					</tr>
+					{% endif %}
+
+				</tbody>
+			</table>
+    </div>
+  </div>
+</section>
+						

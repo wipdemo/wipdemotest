@@ -1,0 +1,736 @@
+---
+-
+    country-name: Afghanistan
+    country-code: AF
+-
+    country-name: Aland Islands
+    country-code: AX
+-
+    country-name: Albania
+    country-code: AL
+-
+    country-name: Algeria
+    country-code: DZ
+-
+    country-name: American Samoa
+    country-code: AS
+-
+    country-name: Andorra
+    country-code: AD
+-
+    country-name: Angola
+    country-code: AO
+-
+    country-name: Anguilla
+    country-code: AI
+-
+    country-name: Antarctica
+    country-code: AQ
+-
+    country-name: Antigua And Barbuda
+    country-code: AG
+-
+    country-name: Argentina
+    country-code: AR
+-
+    country-name: Armenia
+    country-code: AM
+-
+    country-name: Aruba
+    country-code: AW
+-
+    country-name: Australia
+    country-code: AU
+-
+    country-name: Austria
+    country-code: AT
+-
+    country-name: Azerbaijan
+    country-code: AZ
+-
+    country-name: Bahamas
+    country-code: BS
+-
+    country-name: Bahrain
+    country-code: BH
+-
+    country-name: Bangladesh
+    country-code: BD
+-
+    country-name: Barbados
+    country-code: BB
+-
+    country-name: Belarus
+    country-code: BY
+-
+    country-name: Belgium
+    country-code: BE
+-
+    country-name: Belize
+    country-code: BZ
+-
+    country-name: Benin
+    country-code: BJ
+-
+    country-name: Bermuda
+    country-code: BM
+-
+    country-name: Bhutan
+    country-code: BT
+-
+    country-name: Bolivia
+    country-code: BO
+-
+    country-name: Bosnia And Herzegovina
+    country-code: BA
+-
+    country-name: Botswana
+    country-code: BW
+-
+    country-name: Bouvet Island
+    country-code: BV
+-
+    country-name: Brazil
+    country-code: BR
+-
+    country-name: British Indian Ocean Territory
+    country-code: IO
+-
+    country-name: Brunei Darussalam
+    country-code: BN
+-
+    country-name: Bulgaria
+    country-code: BG
+-
+    country-name: Burkina Faso
+    country-code: BF
+-
+    country-name: Burundi
+    country-code: BI
+-
+    country-name: Cambodia
+    country-code: KH
+-
+    country-name: Cameroon
+    country-code: CM
+-
+    country-name: Canada
+    country-code: CA
+-
+    country-name: Cape Verde
+    country-code: CV
+-
+    country-name: Cayman Islands
+    country-code: KY
+-
+    country-name: Central African Republic
+    country-code: CF
+-
+    country-name: Chad
+    country-code: TD
+-
+    country-name: Chile
+    country-code: CL
+-
+    country-name: China
+    country-code: CN
+-
+    country-name: Christmas Island
+    country-code: CX
+-
+    country-name: Cocos (Keeling) Islands
+    country-code: CC
+-
+    country-name: Colombia
+    country-code: CO
+-
+    country-name: Comoros
+    country-code: KM
+-
+    country-name: Republic of Congo
+    country-code: CG
+-
+    country-name: Democratic Republic of Congo
+    country-code: CD
+-
+    country-name: Cook Islands
+    country-code: CK
+-
+    country-name: Costa Rica
+    country-code: CR
+-
+    country-name: Côte d’Ivoire
+    country-code: CI
+-
+    country-name: Croatia
+    country-code: HR
+-
+    country-name: Cuba
+    country-code: CU
+-
+    country-name: Cyprus
+    country-code: CY
+-
+    country-name: Czech Republic
+    country-code: CZ
+-
+    country-name: Denmark
+    country-code: DK
+-
+    country-name: Djibouti
+    country-code: DJ
+-
+    country-name: Dominica
+    country-code: DM
+-
+    country-name: Dominican Republic
+    country-code: DO
+-
+    country-name: Ecuador
+    country-code: EC
+-
+    country-name: Egypt
+    country-code: EG
+-
+    country-name: El Salvador
+    country-code: SV
+-
+    country-name: Equatorial Guinea
+    country-code: GQ
+-
+    country-name: Eritrea
+    country-code: ER
+-
+    country-name: Estonia
+    country-code: EE
+-
+    country-name: Ethiopia
+    country-code: ET
+-
+    country-name: Falkland Islands (Malvinas)
+    country-code: FK
+-
+    country-name: Faroe Islands
+    country-code: FO
+-
+    country-name: Fiji
+    country-code: FJ
+-
+    country-name: Finland
+    country-code: FI
+-
+    country-name: France
+    country-code: FR
+-
+    country-name: French Guiana
+    country-code: GF
+-
+    country-name: French Polynesia
+    country-code: PF
+-
+    country-name: French Southern Territories
+    country-code: TF
+-
+    country-name: Gabon
+    country-code: GA
+-
+    country-name: Gambia
+    country-code: GM
+-
+    country-name: Georgia
+    country-code: GE
+-
+    country-name: Germany
+    country-code: DE
+-
+    country-name: Ghana
+    country-code: GH
+-
+    country-name: Gibraltar
+    country-code: GI
+-
+    country-name: Greece
+    country-code: GR
+-
+    country-name: Greenland
+    country-code: GL
+-
+    country-name: Grenada
+    country-code: GD
+-
+    country-name: Guadeloupe
+    country-code: GP
+-
+    country-name: Guam
+    country-code: GU
+-
+    country-name: Guatemala
+    country-code: GT
+-
+    country-name: Guernsey
+    country-code: GG
+-
+    country-name: Guinea
+    country-code: GN
+-
+    country-name: Guinea-Bissau
+    country-code: GW
+-
+    country-name: Guyana
+    country-code: GY
+-
+    country-name: Haiti
+    country-code: HT
+-
+    country-name: Heard Island & Mcdonald Islands
+    country-code: HM
+-
+    country-name: Holy See (Vatican City State)
+    country-code: VA
+-
+    country-name: Honduras
+    country-code: HN
+-
+    country-name: Hong Kong
+    country-code: HK
+-
+    country-name: Hungary
+    country-code: HU
+-
+    country-name: Iceland
+    country-code: IS
+-
+    country-name: India
+    country-code: IN
+-
+    country-name: Indonesia
+    country-code: ID
+-
+    country-name: Iran
+    country-code: IR
+-
+    country-name: Iraq
+    country-code: IQ
+-
+    country-name: Ireland
+    country-code: IE
+-
+    country-name: Isle Of Man
+    country-code: IM
+-
+    country-name: Israel
+    country-code: IL
+-
+    country-name: Italy
+    country-code: IT
+-
+    country-name: Jamaica
+    country-code: JM
+-
+    country-name: Japan
+    country-code: JP
+-
+    country-name: Jersey
+    country-code: JE
+-
+    country-name: Jordan
+    country-code: JO
+-
+    country-name: Kazakhstan
+    country-code: KZ
+-
+    country-name: Kenya
+    country-code: KE
+-
+    country-name: Kiribati
+    country-code: KI
+-
+    country-name: Republic of Korea
+    country-code: KR
+-
+    country-name: Kuwait
+    country-code: KW
+-
+    country-name: Kyrgyzstan
+    country-code: KG
+-
+    country-name: Lao PDR
+    country-code: LA
+-
+    country-name: Latvia
+    country-code: LV
+-
+    country-name: Lebanon
+    country-code: LB
+-
+    country-name: Lesotho
+    country-code: LS
+-
+    country-name: Liberia
+    country-code: LR
+-
+    country-name: Libyan Arab Jamahiriya
+    country-code: LY
+-
+    country-name: Liechtenstein
+    country-code: LI
+-
+    country-name: Lithuania
+    country-code: LT
+-
+    country-name: Luxembourg
+    country-code: LU
+-
+    country-name: Macao
+    country-code: MO
+-
+    country-name: Macedonia
+    country-code: MK
+-
+    country-name: Madagascar
+    country-code: MG
+-
+    country-name: Malawi
+    country-code: MW
+-
+    country-name: Malaysia
+    country-code: MY
+-
+    country-name: Maldives
+    country-code: MV
+-
+    country-name: Mali
+    country-code: ML
+-
+    country-name: Malta
+    country-code: MT
+-
+    country-name: Marshall Islands
+    country-code: MH
+-
+    country-name: Martinique
+    country-code: MQ
+-
+    country-name: Mauritania
+    country-code: MR
+-
+    country-name: Mauritius
+    country-code: MU
+-
+    country-name: Mayotte
+    country-code: YT
+-
+    country-name: Mexico
+    country-code: MX
+-
+    country-name: Micronesi
+    country-code: FM
+-
+    country-name: Moldova
+    country-code: MD
+-
+    country-name: Monaco
+    country-code: MC
+-
+    country-name: Mongolia
+    country-code: MN
+-
+    country-name: Montenegro
+    country-code: ME
+-
+    country-name: Montserrat
+    country-code: MS
+-
+    country-name: Morocco
+    country-code: MA
+-
+    country-name: Mozambique
+    country-code: MZ
+-
+    country-name: Myanmar
+    country-code: MM
+-
+    country-name: Namibia
+    country-code: NA
+-
+    country-name: Nauru
+    country-code: NR
+-
+    country-name: Nepal
+    country-code: NP
+-
+    country-name: Netherlands
+    country-code: NL
+-
+    country-name: Netherlands Antilles
+    country-code: AN
+-
+    country-name: New Caledonia
+    country-code: NC
+-
+    country-name: New Zealand
+    country-code: NZ
+-
+    country-name: Nicaragua
+    country-code: NI
+-
+    country-name: Niger
+    country-code: NE
+-
+    country-name: Nigeria
+    country-code: NG
+-
+    country-name: Niue
+    country-code: NU
+-
+    country-name: Norfolk Island
+    country-code: NF
+-
+    country-name: Northern Mariana Islands
+    country-code: MP
+-
+    country-name: Norway
+    country-code: NO
+-
+    country-name: Oman
+    country-code: OM
+-
+    country-name: Pakistan
+    country-code: PK
+-
+    country-name: Palau
+    country-code: PW
+-
+    country-name: Palestinian Territories
+    country-code: PS
+-
+    country-name: Panama
+    country-code: PA
+-
+    country-name: Papua New Guinea
+    country-code: PG
+-
+    country-name: Paraguay
+    country-code: PY
+-
+    country-name: Peru
+    country-code: PE
+-
+    country-name: Philippines
+    country-code: PH
+-
+    country-name: Pitcairn
+    country-code: PN
+-
+    country-name: Poland
+    country-code: PL
+-
+    country-name: Portugal
+    country-code: PT
+-
+    country-name: Puerto Rico
+    country-code: PR
+-
+    country-name: Qatar
+    country-code: QA
+-
+    country-name: Reunion
+    country-code: RE
+-
+    country-name: Romania
+    country-code: RO
+-
+    country-name: Russian Federation
+    country-code: RU
+-
+    country-name: Rwanda
+    country-code: RW
+-
+    country-name: Saint Barthelemy
+    country-code: BL
+-
+    country-name: Saint Helena
+    country-code: SH
+-
+    country-name: Saint Kitts And Nevis
+    country-code: KN
+-
+    country-name: Saint Lucia
+    country-code: LC
+-
+    country-name: Saint Martin
+    country-code: MF
+-
+    country-name: Saint Pierre And Miquelon
+    country-code: PM
+-
+    country-name: Saint Vincent and Grenadines
+    country-code: VC
+-
+    country-name: Samoa
+    country-code: WS
+-
+    country-name: San Marino
+    country-code: SM
+-
+    country-name: Sao Tomé and Principe
+    country-code: ST
+-
+    country-name: Saudi Arabia
+    country-code: SA
+-
+    country-name: Senegal
+    country-code: SN
+-
+    country-name: Serbia
+    country-code: RS
+-
+    country-name: Seychelles
+    country-code: SC
+-
+    country-name: Sierra Leone
+    country-code: SL
+-
+    country-name: Singapore
+    country-code: SG
+-
+    country-name: Slovakia
+    country-code: SK
+-
+    country-name: Slovenia
+    country-code: SI
+-
+    country-name: Solomon Islands
+    country-code: SB
+-
+    country-name: Somalia
+    country-code: SO
+-
+    country-name: South Africa
+    country-code: ZA
+-
+    country-name: South Georgia And Sandwich Isl.
+    country-code: GS
+-
+    country-name: Spain
+    country-code: ES
+-
+    country-name: Sri Lanka
+    country-code: LK
+-
+    country-name: Sudan
+    country-code: SD
+-
+    country-name: Suriname
+    country-code: SR
+-
+    country-name: Svalbard And Jan Mayen
+    country-code: SJ
+-
+    country-name: Swaziland
+    country-code: SZ
+-
+    country-name: Sweden
+    country-code: SE
+-
+    country-name: Switzerland
+    country-code: CH
+-
+    country-name: Syria
+    country-code: SY
+-
+    country-name: Taiwan
+    country-code: TW
+-
+    country-name: Tajikistan
+    country-code: TJ
+-
+    country-name: Tanzania
+    country-code: TZ
+-
+    country-name: Thailand
+    country-code: TH
+-
+    country-name: Timor-Leste
+    country-code: TL
+-
+    country-name: Togo
+    country-code: TG
+-
+    country-name: Tokelau
+    country-code: TK
+-
+    country-name: Tonga
+    country-code: TO
+-
+    country-name: Trinidad And Tobago
+    country-code: TT
+-
+    country-name: Tunisia
+    country-code: TN
+-
+    country-name: Turkey
+    country-code: TR
+-
+    country-name: Turkmenistan
+    country-code: TM
+-
+    country-name: Turks And Caicos Islands
+    country-code: TC
+-
+    country-name: Tuvalu
+    country-code: TV
+-
+    country-name: Uganda
+    country-code: UG
+-
+    country-name: Ukraine
+    country-code: UA
+-
+    country-name: United Arab Emirates
+    country-code: AE
+-
+    country-name: United Kingdom
+    country-code: GB
+-
+    country-name: United States
+    country-code: US
+-
+    country-name: United States Outlying Islands
+    country-code: UM
+-
+    country-name: Uruguay
+    country-code: UY
+-
+    country-name: Uzbekistan
+    country-code: UZ
+-
+    country-name: Vanuatu
+    country-code: VU
+-
+    country-name: Venezuela
+    country-code: VE
+-
+    country-name: Viet Nam
+    country-code: VN
+-
+    country-name: Virgin Island
+    country-code: VG
+-
+    country-name: Virgin Island
+    country-code: VI
+-
+    country-name: Wallis And Futuna
+    country-code: WF
+-
+    country-name: Western Sahara
+    country-code: EH
+-
+    country-name: Yemen
+    country-code: YE
+-
+    country-name: Zambia
+    country-code: ZM
+-
+    country-name: Zimbabwe
+    country-code: ZW

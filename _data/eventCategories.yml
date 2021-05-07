@@ -1,0 +1,2570 @@
+- id: 1
+  title: Janda Baik Ultra 2019 
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Bentong
+  country: Malaysia
+  address: Sekolah Kebangsaan, Kampung Janda Baik, Bentong, Pahang, Malaysia
+  event-date: 2019-09-14
+  month: September
+  year: 2019
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569217009/logo/janda-baik_vch1pc.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 16KM
+      link: /jbu-2019/16KM
+    - title: 30KM
+      link: /jbu-2019/30KM
+    - title: 50KM
+      link: /jbu-2019/50KM
+    - title: 100KM
+      link: /jbu-2019/100KM
+
+- id: 2
+  title: KLAU Jungle Trail 2019 
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Pahang
+  country: Malaysia
+  address: Pasar Sg Klau, Pahang, Malaysia
+  event-date: 2019-09-08
+  month: September
+  year: 2019
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569072808/logo/klau-image_qwwxyw.png
+  timing-solution: RaceYaya
+  event-organizer: RosaLeen Event
+  race-categories: 
+    - title: 25KM
+      link: /klau-jungle-trail-2019/25KM
+    - title: 42KM
+      link: /klau-jungle-trail-2019/42KM
+    - title: 60KM
+      link: /klau-jungle-trail-2019/60KM
+
+- id: 3
+  title: Mantra Summit Challenge 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Pahang
+  country: Indonesia
+  address: Pasuruan, East Java, Indonesia
+  event-date: 2019-07-12
+  month: July
+  year: 2019
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569072809/logo/mantra-image_segrbx.jpg
+  timing-solution: RaceYaya
+  event-organizer: Malang Trail Runners	
+  race-categories: 
+    - title: 15KM
+      link: /mantra-summit-challenge-2019/15KM
+    - title: 35KM
+      link: /mantra-summit-challenge-2019/35KM
+    - title: 55KM
+      link: /mantra-summit-challenge-2019/55KM
+    - title: 75KM
+      link: /mantra-summit-challenge-2019/75KM
+    - title: 116KM
+      link: /mantra-summit-challenge-2019/116KM
+
+- id: 4
+  title: Minimal Trail Maewa Lampang		
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Lampang
+  country: Thailand
+  address: Lampang, Thailand
+  event-date: 2019-07-12
+  month: July
+  year: 2019
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569072805/logo/minimal-trail_ktnvsp.jpg
+  timing-solution: RaceYaya
+  event-organizer: Teelakow Ltd
+  race-categories: 
+    - title: 5KM
+      link: /minimal-meniewa-trail-2019/5KM
+    - title: 14KM
+      link: /minimal-meniewa-trail-2019/14KM
+    - title: 29KM
+      link: /minimal-meniewa-trail-2019/29KM
+    - title: 43KM
+      link: /minimal-meniewa-trail-2019/43KM
+
+- id: 5
+  title: Pamutan Trail 2019		
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Cebu
+  country: Philippines
+  address: Brgy Pamutan, Cebu City, Philippines
+  event-date: 2019-08-01
+  month: August
+  year: 2019
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569072806/logo/pamutan-trail_d8abrj.jpg
+  timing-solution: RaceYaya
+  event-organizer: Cebu (Chorizo Cowboys)
+  race-categories: 
+    - title: 10KM
+      link: /pamutan-trail-2019/10KM
+    - title: 26KM
+      link: /pamutan-trail-2019/26KM
+    - title: 50KM
+      link: /pamutan-trail-2019/50KM
+      
+
+- id: 6
+  title: Ultra Trail Chiang Mai		
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Chiang Mai
+  country: Thailand
+  address:  Mae Jam School, Chiang Mai, Thailand
+  # event-date: 08-19-2019
+  event-date: 2019-08-19
+  month: August
+  year: 2019
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569217001/logo/ultra-trail-chiangmai_ay7efp.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 20KM
+      link: /utcm-2019/20KM
+    - title: 33KM
+      link: /utcm-2019/33KM
+    - title: 65KM
+      link: /utcm-2019/65KM
+    - title: 104KM
+      link: /utcm-2019/104KM
+
+- id: 7
+  title: Salomon Xtrail Run 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Rizal
+  country: Philippines
+  address:  Timberland Heights, San Mateo, Rizal, Philippines
+  # event-date: 04-28-19
+  event-date: 2019-04-28
+  month: April
+  year: 2019
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1569850006/logo/salomon-trail_zzli3u.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 16KM
+      link: /salomon-xtrail-2019/16KM
+    - title: 24KM
+      link: /salomon-xtrail-2019/24KM
+    - title: 32KM
+      link: /salomon-xtrail-2019/32KM
+    - title: 50KM
+      link: /salomon-xtrail-2019/50KM
+
+- id: 8
+  title: Kuching Ultra 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Cat City, Sarawak
+  country: Malaysia
+  address:  Cat City, Sarawak, Malaysia
+  # event-date: 03-10-19
+  event-date: 2019-03-10
+  month: March
+  year: 2019
+  event-organizer: Grit Event
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025915/logo/kuching_ultra_jsvtue.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 30KM
+      link: /kuching-ultra-2019/30KM
+    - title: 50KM
+      link: /kuching-ultra-2019/50KM
+    - title: 70KM
+      link: /kuching-ultra-2019/70KM
+    - title: 100KM
+      link: /kuching-ultra-2019/100KM
+
+- id: 9
+  title: 2019 TIN MINES ENDURANCE CHALLENGE 2ND EDITION
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Sungai Lembing
+  country: Malaysia
+  address: Sungai Lembing Malaysia
+  # event-date: 07-06-19
+  event-date: 2019-07-06
+  month: July
+  year: 2019
+  event-organizer: Tin Mines
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025899/logo/tinmines_fkmhj8.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 6HRS
+      link: /tin-mines-2019/6HRS
+    - title: 12HRS
+      link: /tin-mines-2019/12HRS
+    - title:  12HRS Relay
+      link: /tin-mines-2019/12HRSRELAY
+    - title: 24HRS Men
+      link: /tin-mines-2019/24HRSMEN
+    - title: 24HRS Women
+      link: /tin-mines-2019/24HRSWOMEN
+
+- id: 10
+  title: Katsuo Stamina Titi Ultra 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Hulu Langat, Selangor
+  country: Malaysia
+  address:  Hulu Langat, Selangor, Malaysia 
+  event-date: 2019-03-15
+  month: March
+  year: 2019
+  event-organizer: Endurance Nature
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614825/Logo/Logo_p7ft6n.png
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 50KM
+      link: /katsuo-stamina-2019/50KM
+    - title: 100KM
+      link: /katsuo-stamina-2019/100KM
+    - title: 200KM
+      link: /katsuo-stamina-2019/200KM
+    - title: 200KMDG
+      link: /katsuo-stamina-2019/200KMDG
+    - title: 250KM
+      link: /katsuo-stamina-2019/250KM
+
+- id: 11
+  title: Tailwind Penang Eco 100 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: roadrun
+  city: Bukit Mertajam, Penang
+  country: Malaysia
+  address: Bukit Mertajam, Penang, Malaysia 
+  # event-date: 06-22-2019
+  event-date: 2019-06-22
+  month: June
+  year: 2019
+  event-organizer: Endurance Nature
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614442/Logo/Logo_gqlzi3.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 100 Miles
+      link: /tailwind-penang-100-2019/100MILES
+    - title: 30KM
+      link: /tailwind-penang-100-2019/30KM
+    - title: 50KM
+      link: /tailwind-penang-100-2019/50KM
+    - title: 100KM
+      link: /tailwind-penang-100-2019/100KM
+
+- id: 12
+  title: Peoples City Eco Adventure Run 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: La Union
+  country: Philippines 
+  address: San Fernando, La Union Philippines
+  # event-date: 06-29-2019
+  event-date: 2019-06-29
+  month: June
+  year: 2019
+  event-organizer: San Fernando La Union
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614176/Logo/event_logo_01_bvtsnv.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 25K Road Run
+      link: /peoples-city-eco-2019/25KM
+    - title: 50K Road to Trail Ultra
+      link: /peoples-city-eco-2019/50KM
+    - title: 100K Road to Trail Ultra
+      link: /peoples-city-eco-2019/100KM
+
+
+- id: 13
+  title: Sungai Menyala Trail Festival 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Port Dickson
+  country: Malaysia
+  address: Port Dickson Malaysia
+  # event-date: 04-07-2019
+  event-date: 2019-04-07
+  month: April
+  year: 2019
+  event-organizer: Malatra
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025907/logo/smft_rwzxh1.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 10KM
+      link: /sungai-menyala-2019/10KM
+    - title: 25KM
+      link: /sungai-menyala-2019/25KM
+    - title: 50KM
+      link: /sungai-menyala-2019/50KM
+
+- id: 14
+  title: Coast to Coast Ultra 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: 
+  country: Malaysia
+  address: Malaysia
+  # event-date: 07-19-2019
+  event-date: 2019-07-19
+  month: July
+  year: 2019
+  event-organizer: Endurance Nature
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573613990/C2C%202019%20LOGO.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 444KM
+      link: /coast-to-coast-ultra-2019/444KM
+  
+      
+- id: 15
+  title: Fraser Ultra 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Clock Tower Fraser Hill
+  country: Malaysia
+  address: Clock Tower Fraser Hill Malaysia
+  # event-date: 08-17-2019
+  event-date: 2019-08-17
+  month: August
+  year: 2019
+  event-organizer: Endurance Nature
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573613535/Logo/logo_mfst7w.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 22KM
+      link: /fraser-ultra-2019/22KM
+    - title: 50KM
+      link: /fraser-ultra-2019/50KM
+    - title: 70KM
+      link: /fraser-ultra-2019/70KM
+    - title: 100KM
+      link: /fraser-ultra-2019/100KM
+
+- id: 16
+  title: PASUKULAN FALLS ORANI MOUNTAIN RUN 2019
+  event-filter:
+    - filter: trailrun
+  city: Bataan
+  country: Philippines
+  address: Bataan Philippines
+  # event-date: 04-19-2019
+  event-date: 2019-04-19
+  month: April
+  year: 2019
+  event-organizer: Orani Runners
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614687/Logo/Pasukulan_Logo_ndzbkp.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 10KM
+      link: /pasukulan-orani-mountain-2019/10KM
+    - title: 24KM
+      link: /pasukulan-orani-mountain-2019/24KM
+    - title: 34KM
+      link: /pasukulan-orani-mountain-2019/34KM
+
+- id: 17
+  title: 2019 CORDILLERA CHALLENGE 9
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Benguet
+  country: Philippines
+  address: Tinongdan, Itogon, Benguet Philippines
+  # event-date: 04-19-2019
+  event-date: 2019-04-19
+  month: April
+  year: 2019
+  event-organizer: Cordillera Conservation and Trust
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614609/Logo/cordillera-challenge_gtvgwu.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: Mini Epic
+      link: /cordillera-challenge-9-2019/MINIEPIC
+    - title: Epic
+      link: /cordillera-challenge-9-2019/EPIC
+
+- id: 18
+  title: 2019 CORDILLERA MOUNTAIN ULTRA
+  event-filter:
+    - filter: trailrun
+  city: Benguet
+  country: Philippines
+  address: Tinongdan, Itogon, Benguet Philippines
+  # event-date: 03-06-2019
+  event-date: 2019-03-06
+  month: March
+  year: 2019
+  event-organizer: Cordillera Conservation and Trust
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614960/Logo/Cordillera-Mountain-Ultra-2019-1280_wxhrmh.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: Kiddie Trail Run
+      link: /cordillera-mountain-ultra-2019/kiddie
+    - title: Vertical KM
+      link: /cordillera-mountain-ultra-2019/vertical
+    - title: CMU
+      link: /cordillera-mountain-ultra-2019/cmu
+    - title: CMR
+      link: /cordillera-mountain-ultra-2019/cmr
+    - title: 10K Cordillera Trail Run
+      link: /cordillera-mountain-ultra-2019/10KM
+
+- id: 19
+  title: 2019 MUD PROVING GROUNDS RUN
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Cauayan, Isabela
+  country: Philippines
+  address: Cauayan, Isabela Philippines
+  # event-date: 04-11-2019
+  event-date: 2019-04-11
+  month: April
+  year: 2019
+  event-organizer: JC Dy
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614753/Logo/logo_ncmyxh.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: PNP Wave 1
+      link: /mud-proving-grounds-run-2019/wave1
+    - title: PNP wave 2
+      link: /mud-proving-grounds-run-2019/wave2
+    - title: PNP Wave 3
+      link: /mud-proving-grounds-run-2019/wave3
+    - title: Wave 4
+      link: /mud-proving-grounds-run-2019/wave4
+    - title: Wave 5
+      link: /mud-proving-grounds-run-2019/wave5
+    - title: JFIT Wave 6 
+      link: /mud-proving-grounds-run-2019/wave6
+    - title: Wave 7
+      link: /mud-proving-grounds-run-2019/wave7
+   
+
+- id: 22
+  title: DBB MOUNTAIN ROCKSTAR FINAL LEG 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Rizal
+  country: Philippines
+  address: Tanay, Rizal Philippines
+  # event-date: 05-05-2019
+  event-date: 2019-05-05
+  month: May
+  year: 2019
+  event-organizer: Be Trail Ready
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573614508/Logo/DBB-Mountain-Rockstar-2019-1280_tk9x3w.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 10KM
+      link: /mountain-rockstar-final-leg-2019/10KM
+    - title: 24KM
+      link: /mountain-rockstar-final-leg-2019/24KM
+    - title: 50KM
+      link: /mountain-rockstar-final-leg-2019/50KM
+    - title: 100KM
+      link: /mountain-rockstar-final-leg-2019/100KM
+
+- id: 20
+  title: MT. SEMBRANO MOUNTAIN RUN L2 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Rizal
+  country: Philippines
+  address: Tanay, Rizal Philippines
+  # event-date: 03-03-2019
+  event-date: 2019-03-03
+  month: March
+  year: 2019
+  event-organizer: Be Trail Ready
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025913/logo/mt_sembrano_osaoze.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 15KM
+      link: /mt-sembrano-mountain-2019/15KM
+    - title: 35KM
+      link: /mt-sembrano-mountain-2019/35KM
+    - title: 50KM
+      link: /mt-sembrano-mountain-2019/50KM
+
+- id: 21
+  title: HANGAWAY ULTRA-TRAIL 50 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Antique
+  country: Philippines
+  address: Sibalom, Antique Philippines
+  event-date: 2019-05-05
+  month: May
+  year: 2019
+  event-organizer: ART Running
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025919/logo/hangaway_ttcorg.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 12KM
+      link: /hangaway-ultra-trail-2019/12KM
+    - title: 24KM
+      link: /hangaway-ultra-trail-2019/24KM
+    - title: 34KM
+      link: /hangaway-ultra-trail-2019/34KM
+
+- id: 23
+  title: A TASTE OF ANTIQUE TRAILS 4 ANINGALAN REPEAT 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Antique
+  country: Philippines
+  address: Aningalan, San Remigio, Antique Philippines
+  event-date: 2019-02-10
+  month: February
+  year: 2019
+  event-organizer: ART Running
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573615080/Logo/2019_A_TASTE_OF_ANTIQUE_TRAILS_4_ANINGALAN_REPEAT_qfwa6u.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 8KM
+      link: /taste-of-antique-repeat-2019/8KM
+    - title: 16KM
+      link: /taste-of-antique-repeat-2019/16KM
+    - title: 25KM
+      link: /taste-of-antique-repeat-2019/25KM
+
+- id: 24
+  title: PILIPINAS AKYATHLON 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Benguet
+  country: Philippines
+  address: Tinongdan, Itogon, Benguet Philippines
+  event-date: 2019-02-09
+  month: February
+  year: 2019
+  event-organizer: Philsky
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025921/logo/akyathlon_jsxiv8.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: Kiddie Akyathlon
+      link: /pilipinas-akyathlon-2019/kiddie
+    - title: Vertical Kilometer
+      link: /pilipinas-akyathlon-2019/vertical
+    - title: 10KM Trail Run
+      link: /pilipinas-akyathlon-2019/10KM
+    - title: 25KM Mountain Run
+      link: /pilipinas-akyathlon-2019/25KM
+    - title:  49KM Skymarathon
+      link: /pilipinas-akyathlon-2019/49KM
+
+- id: 26
+  title: 2019 Rizal Moutain Run
+  event-filter:
+    - filter: trailrun
+  city: Rizal
+  country: Philippines
+  address: San Mateo, Rizal Philippines
+  # event-date: 01-27-2019
+  event-date: 2019-01-27
+  month: January
+  year: 2019
+  event-organizer: BRG
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025909/logo/rizal-mountain_gkfete.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: Kiddie Trail Run
+      link: /rizal-mountain-run-2019/kiddie
+    - title: 15KM
+      link: /rizal-mountain-run-2019/15KM
+    - title: 30KM
+      link: /rizal-mountain-run-2019/30KM
+    - title: 50KM
+      link: /rizal-mountain-run-2019/50KM
+
+- id: 27
+  title: TAWID MOUNTAIN MARATHON 2019
+  event-filter:
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Rizal
+  country: Philippines
+  address: Bontoc, Mountain Province Philippines
+  # event-date: 06-08-2019
+  event-date: 2019-06-08
+  month: June
+  year: 2019
+  event-organizer: Tawid Multisports
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570025905/logo/tawid-mountain_shpquo.png
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: Kiddie Run
+      link: /tawid-mountain-marathon-2019/kiddie
+    - title: 6KM Trail Run
+      link: /tawid-mountain-marathon-2019/6KM
+    - title: 12KM Mountain Run
+      link: /tawid-mountain-marathon-2019/12KM
+    - title: 24KM Mountain Run
+      link: /tawid-mountain-marathon-2019/24KM
+    - title: 42KM
+      link: /tawid-mountain-marathon-2019/42KM
+
+- id: 28
+  title: Annapurna 100 2018
+  event-filter:
+    - filter: trailrun
+  city: Lakeside Pokhara
+  country: Nepal
+  address: Lakeside Pokhara Nepal
+  event-date: 2018-10-27
+  month: October
+  year: 2018
+  event-organizer:
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570403752/logo/annapurna-100_kbwug4.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 50KM
+      link: /annapurna-100-2018/50KM
+    - title: 100KM
+      link: /annapurna-100-2018/100KM
+
+- id: 28
+  title: Annapurna 100 2017
+  event-filter: 
+    - filter: trailrun
+  city: Lakeside Pokhara
+  country: Nepal
+  address: Lakeside Pokhara Nepal
+  event-date: 2017-10-28
+  month: October
+  year: 2017
+  event-organizer:
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570403752/logo/annapurna-100_kbwug4.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 50KM
+      link: /annapurna-100-2017/50KM
+    - title: 100KM
+      link: /annapurna-100-2017/100KM
+
+- id: 29
+  title: Mesatila 100 2019
+  event-filter: 
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Magelang Central Java
+  country: Indonesia
+  address: Magelang, Central Java, Indonesia
+  event-date: 2019-10-04
+  month: October
+  year: 2019
+  event-organizer: Mesastila Hotel and Resorts
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570451507/logo/mesastila100_jin7bl.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 21KM
+      link: /mesatila-100-2019/21KM
+    - title: 42KM
+      link: /mesatila-100-2019/42KM
+    - title: 65KM
+      link: /mesatila-100-2019/65KM
+    - title: 100KM
+      link: /mesatila-100-2019/100KM
+    - title: 170KM
+      link: /mesatila-100-2019/170KM
+
+- id: 30
+  title: Clark Miyamit Falls Ultra (CM50) 2018
+  event-filter: 
+    - filter: trailrun
+  city: Pampanga
+  country: Philippines
+  address: Manuel L Quezon corner Mimosa Drive, Clark Freeport Zone, Clark, Pampanga, Philippines
+  event-date: 2018-11-25
+  month: November
+  year: 2018
+  event-organizer: Atty Jon Lacanlale
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570607412/logo/cm50_p8ydpq.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 10Miles Mini Bad Ass
+      link:  /cm50-2018/10MILES
+    - title: 32Miles Semi Bad Ass
+      link: /cm50-2018/32MILES
+    - title: 50Miles Bad Ass
+      link: /cm50-2018/50MILES
+
+- id: 31
+  title: Clark Miyamit Falls Ultra (CM50) 2016
+  event-filter: 
+    - filter: trailrun
+  city: Pampanga
+  country: Philippines
+  address: Clark Freeport Zone, 2010 Mabalacat, Pampanga, Philippines
+  event-date: 2016-11-26
+  month: November
+  year: 2016
+  event-organizer: Atty Jon Lacanlale
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570607412/logo/cm50_p8ydpq.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 50 Miles
+      link: /cm50-2016/50MILES
+    - title: 60 Miles
+      link: /cm50-2016/60MILES
+
+- id: 32
+  title: Mt. Talinis Mountain Ultra Marathon 2019
+  event-filter: 
+    - filter: ultramarathon
+  city: Velencia Negros Oriental
+  country: Philippines
+  address: Velencia Negros Oriental Philippines
+  event-date: 2019-10-05
+  month: October
+  year: 2019
+  event-organizer: Rhodel Sarande
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570664614/logo/mt-talinis-2019_x4wk7w.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 17KM
+      link: /talinis-ultramarathon-2019/17KM
+    - title: 25KM
+      link: /talinis-ultramarathon-2019/25KM
+    - title: 50KM
+      link: /talinis-ultramarathon-2019/50KM
+    - title: 70KM
+      link: /talinis-ultramarathon-2019/70KM
+
+- id: 33
+  title: TRAIL FIFTY MAPAWA 2019
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Cagayan de Oro
+  country: Philippines
+  address: Mapawa Nature Park, Cagayan de Oro, Philippines
+  event-date: 2019-10-20
+  month: October
+  year: 2019
+  event-organizer: Mapawa/RaceYaya
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1572254355/logo/trail-fifty-mapawa_fizjmb.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 50Miles
+      link: /trail-fifty-mapawa-2019/50MILES
+    - title: 5KM
+      link: /trail-fifty-mapawa-2019/5KM
+    - title: 15KM
+      link: /trail-fifty-mapawa-2019/15KM
+    - title: 25KM
+      link: /trail-fifty-mapawa-2019/25KM
+    - title: 50KM
+      link: /trail-fifty-mapawa-2019/50KM
+
+- id: 34
+  title: TAILWIND ULTIMATE TRAILS of PENANG 2019
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Penang
+  country: Malaysia
+  address: Youth Park, Penang, Malaysia
+  event-date: 2019-10-12
+  month: October
+  year: 2019
+  event-organizer: Endurance Nature
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1572252513/logo/utop-2019_h9tzys.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 20KM
+      link: /tailwind-ultimate-penang-2019/20KM
+    - title: 40KM
+      link: /tailwind-ultimate-penang-2019/40KM
+    - title: 60KM
+      link: /tailwind-ultimate-penang-2019/60KM
+    - title: 100KM
+      link: /tailwind-ultimate-penang-2019/100KM
+
+- id: 35
+  title: Golden Trail Series Grand Final 2019
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Pockhara
+  country: Nepal
+  address: Pockhara Nepal Himalaya
+  event-date: 2019-10-25
+  month: October
+  year: 2019
+  event-organizer: Golden Trail Series/Trail Running Nepal
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1572252502/logo/goldentrail-2019_k6n0ge.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 42K
+      link: /golden-trail-2019/42K
+
+- id: 36
+  title: Annapurna 100 2019
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Pockhara
+  country: Nepal
+  address: Pockhara Nepal Himalaya
+  event-date: 2019-10-26
+  month: October
+  year: 2019
+  event-organizer: Trail Running Nepal
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1570403752/logo/annapurna-100_kbwug4.jpg
+  timing-solution: RaceYaya
+  race-categories: 
+    - title: 55K
+      link: /annapurna-100-2019/55K
+    - title: 100K
+      link: /annapurna-100-2019/100K
+
+
+- id: 37
+  title: THE 6TH ANTIQUE MARATHON 2019 
+  event-filter: 
+    - filter: ultramarathon
+  city: Sibalom Antique
+  country: Philippines
+  address: Sibalom Antique Philippines
+  event-date: 2019-11-03
+  month: November
+  year: 2019
+  event-organizer: Manuel Magbanua Jr
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1573451689/logo/antique-marathon-2019_xvgf0s.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 5KM
+      link: /the-6th-antique-marathon-2019/5KM
+    - title: 10KM
+      link: /the-6th-antique-marathon-2019/10KM
+    - title: 21KM
+      link: /the-6th-antique-marathon-2019/21KM
+    - title: 42KM
+      link: /the-6th-antique-marathon-2019/42KM
+
+- id: 38
+  title: KUCHING ULTRA 2018
+  event-filter: 
+    - filter: ultramarathon
+  city: Sarawak
+  country: Malaysia
+  address: Cat City capital of Sarawak Malaysia
+  event-date: 2018-03-03
+  month: March
+  year: 2018
+  event-organizer: Grit Event
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573619473/Logo/kuching-ultra-2018-logo_tlpvm5.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 30KM
+      link: /kuching-ultra-2018/30KM
+    - title: 50KM
+      link: /kuching-ultra-2018/50KM
+    - title: 70KM
+      link: /kuching-ultra-2018/100KM
+    - title: 100KM
+      link: /kuching-ultra-2018/100KM
+
+- id: 39
+  title: 2018 HARDCORE 100
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Kayapa
+  country: Philippines
+  address: Kayapa Nueva Ecija Philippines
+  event-date: 2018-03-17
+  month: March
+  year: 2018
+  event-organizer: FrontRunner KOTM
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573622785/Logo/HARDOCORE_100_LOGO_gtvcxx.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 100KM
+      link: /hardcore-100-2018/100KM
+
+- id: 40
+  title: PULAG 100 2018
+  event-filter:
+    - filter: trailrun 
+    - filter: ultramarathon
+  city: Kayapa
+  country: Philippines
+  address: Kayapa Nueva Ecija Philippines
+  event-date: 2018-04-06
+  month: April
+  year: 2018
+  event-organizer: FrontRunner KOTM
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573622467/Logo/logo-p1_tnutwz.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 100KM
+      link: /pulag-100-2018/100KM
+
+- id: 41
+  title: FOUR LAKES 100 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Kayapa
+  country: Philippines
+  address: Kayapa Nueva Ecija Philippines
+  event-date: 2018-02-17
+  month: February
+  year: 2018
+  event-organizer: FrontRunner KOTM
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573622832/Logo/logo_1_hdutmh.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 100K
+      link: /fourlakes-100-2018/100K
+  
+- id: 42
+  title: OLD SPANISH TRAIL 50K 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Kayapa
+  country: Philippines
+  address: Kayapa Nueva Ecija
+  event-date: 2018-02-17
+  month: February
+  year: 2018
+  event-organizer: FrontRunner KOTM
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573622881/Logo/logo_cnhpnx.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 50K
+      link: /oldspanish-trail50k-2018/50K
+
+
+- id: 43
+  title: ULTRON ULTIMATE TRAILS OF PENANG 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Penang
+  country: Malaysia
+  address: Youth Park Penang Island Malaysia
+  event-date: 2018-09-22
+  month: September
+  year: 2018
+  event-organizer: Endurance Nature
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573623002/Logo/ULTRO_2018_LOGO_btp5xw.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 20KM
+      link: /ultron-ultimate-penang-2018/20KM
+    - title: 40KM
+      link: /ultron-ultimate-penang-2018/40KM
+    - title: 60KM
+      link: /ultron-ultimate-penang-2018/60KM
+
+- id: 44
+  title: GRIT ALL WOMEN TRAIL RUN 2018
+  event-filter: 
+    - filter: trailrun
+  city: Rizal
+  country: Philippines
+  address: East Ridge Golf and Country Club Binangonan Rizal Philippines
+  event-date: 2018-08-05
+  month: August
+  year: 2018
+  event-organizer: RaceYaya
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573623703/Logo/GRiT_logo_2_lctn6t.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Sub Sandi
+      link: /grit-all-women-trail-2018/sub-sandi
+    - title: Kiddie
+      link: /grit-all-women-trail-2018/kiddie
+    - title: 6K
+      link: /grit-all-women-trail-2018/6K
+    - title: 15K
+      link: /grit-all-women-trail-2018/15K
+    - title: 30K 
+      link: /grit-all-women-trail-2018/30K
+      
+- id: 45
+  title: DEADMANS 300 V5
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Rizal
+  country: Philippines
+  address: The Rock Resort, Montalban Rizal Philippines
+  event-date: 2018-11-30
+  month: November
+  year: 2018
+  event-organizer: Marupok
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574390962/Logo/DEADMANS_300_V5_jgb8nc.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 30KM
+      link: /deadmans-300-2018/30KM
+    - title: 50KM
+      link: /deadmans-300-2018/50KM
+
+- id: 45
+  title: MANTRA SUMMITS CHALLENGE 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Pasuruan Jawa Timur
+  country: Indonesia
+  address: Kaliandra Resort, Prigen, Pasuruan Jawa Timur, Indonesia
+  event-date: 2018-07-14
+  month: July
+  year: 2018
+  event-organizer: Malang Trail Runners Mantra Runners
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573623800/Logo/mantra-hiam_fujkqd.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 15KM
+      link: /malang-trail-mantra-2018/15KM
+    - title: 30KM
+      link: /malang-trail-mantra-2018/30KM
+    - title: 50KM
+      link: /malang-trail-mantra-2018/50KM
+    - title: 75KM
+      link: /malang-trail-mantra-2018/75KM
+
+- id: 46
+  title: TIN MINE ENDURANCE CHALLENGE 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Sungai Lembing Pahang
+  country: Malaysia
+  address: Sungai Lembing, Pahang MPK Padang Malaysia
+  event-date: 2018-07-14
+  month: July
+  year: 2018
+  event-organizer: Elpis Event Management
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573624035/Logo/Logo_svfuu8.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 6HRS Women Open
+      link: /tin-mine-endurance-challenge-2018/6HRSWOMEN
+    - title: 6HRS Men Open
+      link: /tin-mine-endurance-challenge-2018/6HRSMEN
+    - title: 12HRS Women Open
+      link: /tin-mine-endurance-challenge-2018/12HRSWOMEN
+    - title:  12HRS Men Open
+      link: /tin-mine-endurance-challenge-2018/12HRSMEN
+
+- id: 47
+  title: HIGHWAY TO HEAVEN GLOBELINK FRASER ULTRA 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Fraser Hill Pahang
+  country: Malaysia
+  address: Fraser Hill Pahang Malaysia
+  event-date: 2018-09-01
+  month: September
+  year: 2018
+  event-organizer: Endurance Nature
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573624145/Logo/download_nnzjlh.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 22KM
+      link: /highway-to-heaven-globelink-2018/22KM
+    - title: 42KM
+      link: /highway-to-heaven-globelink-2018/42KM
+    - title: 70KM
+      link: /highway-to-heaven-globelink-2018/70KM
+    - title: 100KM
+      link: /highway-to-heaven-globelink-2018/100KM
+
+- id: 48
+  title: 2018 CORDILLERA MOUNTAIN ULTRA
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Benguet
+  country: Philippines
+  address: Dalupirip Itogon Benguet Philippines
+  event-date: 2018-03-03
+  month: March
+  year: 2018
+  event-organizer: Cordillera Conservation and Trust
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574390742/Logo/cmuuu_n27gg0.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Vertical KM
+      link: /cordillera-mountain-ultra-2018/VERTICALKM
+    - title: 26K Mountain Run
+      link: /cordillera-mountain-ultra-2018/26K
+    - title: 50K Mountain Run
+      link: /cordillera-mountain-ultra-2018/50K
+
+- id: 49
+  title: THE 5TH ANTIQUE MARATHON 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Antique
+  country: Philippines
+  address: Sibalom Antique Philippines
+  event-date: 2018-11-04
+  month: November
+  year: 2018
+  event-organizer: ART Running
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573624328/Logo/5th-Antique-Marathon-2018-Teaser_yficzt.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 5K Silver
+      link: /5th-antique-marathon-2018/5KM
+    - title: 10KM
+      link: /5th-antique-marathon-2018/10KM
+    - title: 21KM
+      link: /5th-antique-marathon-2018/21KM
+    - title: 42KM
+      link: /5th-antique-marathon-2018/42KM
+
+- id: 50
+  title: HANGAWAY 50 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Antique
+  country: Philippines
+  address: Egana Sibalom Antique Philippines
+  event-date: 2018-05-12
+  month: May
+  year: 2018
+  event-organizer: ART Running
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574390664/Logo/images_bjva2c.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 12KM
+      link: /hangaway-50-2018/12KM
+    - title: 22KM
+      link: /hangaway-50-2018/22KM
+    - title: 34KM
+      link: /hangaway-50-2018/34KM
+    - title: 50KM
+      link: /hangaway-50-2018/50KM
+
+- id: 51
+  title: A TASTE OF ANTIQUE TRAILS 3 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Antique
+  country: Philippines
+  address: Aningalan San Remegio Antique Philippines
+  event-date: 2018-02-11
+  month: February
+  year: 2018
+  event-organizer: ART Running
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574390516/Logo/event_poster_pabytm.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 8KM
+      link: /taste-of-antique-3-2018/8KM
+    - title: 16KM
+      link: /taste-of-antique-3-2018/16KM
+    - title: 25KM
+      link: /taste-of-antique-3-2018/25KM
+
+- id: 52
+  title: FITTEST TEAM  EVENT 1 THE SPARTAN WAY 2018
+  event-filter: 
+    - filter: crossfit
+  city: Makati
+  country: Philippines
+  address: Makati Philippines
+  event-date: 2018-03-01
+  month: March
+  year: 2018
+  event-organizer: Fittest Crossfit
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574390280/Logo/SpartanLogo_BlackBg-0111_vtsfs4.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Heat 1 Men Duo RX
+      link: /fittest-team-spartanway-2018/heat1
+    - title: Heat 2 Men Duo Scaled
+      link: /fittest-team-spartanway-2018/heat2
+    - title: Heat 3 Trio RX
+      link: /fittest-team-spartanway-2018/heat3
+    - title: Heat 4
+      link: /fittest-team-spartanway-2018/heat4
+    - title: Heat 5 Women Duo Rx
+      link: /fittest-team-spartanway-2018/heat5
+    - title: Heat 6 Trio Scaled
+      link: /fittest-team-spartanway-2018/heat6
+    - title: Heat 7 Women Duo Scaled
+      link: /fittest-team-spartanway-2018/heat7
+    - title: Heat 8 Non Qualifiers
+      link: /fittest-team-spartanway-2018/heat8
+
+- id: 53
+  title: 2018 AMIHAN OUTRUN YOUR DREAMS
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Rizal
+  country: Philippines
+  address: Wawa Covered Court, San Rafael, Rodriguez Rizal Philippines
+  event-date: 2018-05-27
+  month: May
+  year: 2018
+  event-organizer: Amihan
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573624843/Logo/poster-22_v0xvr9.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 2K Kids
+      link: /amihan-outrun-2018/KIDS
+    - title: 6K
+      link: /amihan-outrun-2018/6K
+    - title: 10K
+      link: /amihan-outrun-2018/10K
+    - title: 22K
+      link: /amihan-outrun-2018/22K
+
+- id: 54
+  title: ADIDAS RUNNERS MNL A GAMES FINALS 2018 
+  event-filter: 
+    - filter: fitness
+  city: Makati
+  country: Philippines
+  address: Makati City Philippines
+  event-date: 2018-05-01
+  month: May
+  year: 2018
+  event-organizer: Adidas Philippines
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574393651/Logo/AR_zeusho.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Wave 1
+      link: /adidas-runner-final-2018/wave1
+    - title: Wave 2
+      link: /adidas-runner-final-2018/wave2
+    - title: Wave 3
+      link: /adidas-runner-final-2018/wave3
+    - title: Wave 4
+      link: /adidas-runner-final-2018/wave4
+    - title: Wave 5
+      link: /adidas-runner-final-2018/wave5
+
+- id: 55
+  title: TRAIL FIFTY MAPAWA 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Cagayan de Oro
+  country: Philippines
+  address: Mapawa Nature Adventure Park, Mapawa, Malasag Cugman, Cagayan de Oro
+  event-date: 2018-10-28
+  month: October
+  year: 2018
+  event-organizer: Mapawa Nature Park
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573625080/Logo/mapawa_ws6qg3.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 50 Miles
+      link: /trail-fifty-mapawa-2018/50MILES
+    - title: 15K
+      link: /trail-fifty-mapawa-2018/15K
+    - title: 50K
+      link: /trail-fifty-mapawa-2018/50K
+  
+
+- id: 56
+  title: 2018 TRAIL MARATHON MAPAWA
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Cagayan De Oro
+  country: Philippines
+  address: Mapawa Nature Adventure Park, Mapawa, Malasag Cugman, Cagayan de Oro
+  event-date: 2018-07-29
+  month: July
+  year: 2018
+  event-organizer: Mapawa Nature Park
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573625214/Logo/Trail-Marathon-Mapawa_xzjdcg.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 10K
+      link: /2018-trail-marathon-mapawa/10K
+    - title: 42K
+      link: /2018-trail-marathon-mapawa/42K
+
+- id: 57
+  title: TRAIL RUN MAPAWA 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Cagayan De Oro
+  country: Philippines
+  address: Mapawa Nature Adventure Park, Mapawa, Malasag Cugman, Cagayan de Oro Philippines
+  event-date: 2018-04-29
+  month: April
+  year: 2018
+  event-organizer: Mapawa Nature Park
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574390173/Logo/image_lvmya6.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 5K
+      link: /trailrun-mapawa-2018/5K
+    - title: 21K
+      link: /trailrun-mapawa-2018/21K
+
+- id: 58
+  title: BEACH BUNCH TRAIL CHALLENGE 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Bandar Seri Begawan
+  country: Brunei
+  address: Bandar Seri Begawan Brunei
+  event-date: 2018-03-25
+  month: March
+  year: 2018
+  event-organizer: Beach Bunch
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573625354/Logo/Logo_qug4sc.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 10K Trail
+      link: /beach-bunch-trail-challenge-2018/10K
+    - title: 30K Trail
+      link: /beach-bunch-trail-challenge-2018/30K
+    - title: 50K Ultra Trail
+      link: /beach-bunch-trail-challenge-2018/50K
+    - title: 100K Ultra Trail
+      link: /beach-bunch-trail-challenge-2018/100K
+
+- id: 59
+  title: FAT ASS CLARK 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Clark Pampanga
+  country: Philippines
+  address: CDC Clark Parade Grounds Philippines
+  event-date: 2018-01-01
+  month: January
+  year: 2018
+  event-organizer: Atty Jon Lacanlale
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573625290/Logo/Logo_wa5xi5.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 6HRS AM
+      link: /fatass-clark-2018/6HRSAM
+    - title: 6HRS PM
+      link: /fatass-clark-2018/6HRSPM
+    - title: 12HRS Morning Run
+      link: /fatass-clark-2018/12HRSAM
+    - title: 12HRS Night Run
+      link: /fatass-clark-2018/12HRSPM
+    - title: 24HRS
+      link: /fatass-clark-2018/24HRS
+
+- id: 60
+  title: 2ND MOUNT MARAMI-SILYANG BATO 21KM FKT TRAIL CHALLENGE 2018
+  event-filter: 
+    - filter: trailrun
+  city: Cavite
+  country: Philippines
+  address: Brgy Talipusngo Hall Basketball Court Maragondon Cavite Philippines
+  event-date: 2018-02-11
+  month: February
+  year: 2018
+  event-organizer: Mt Marami JC Igos
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573625864/Logo/mt-marami-trail-run-2018-fb_kb1zwp.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 7KM
+      link: /2nd-marami-silyang-bato-2018/7KM
+    - title: 14KM
+      link: /2nd-marami-silyang-bato-2018/14KM
+    - title: 21KM
+      link: /2nd-marami-silyang-bato-2018/21KM
+  
+- id: 61
+  title: RIZAL MOUNTAIN RUN 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Rizal
+  country: Philippines
+  address: BASEKAMP, Brgy Pintong Bukawe, San Mateo, Rizal Philippines
+  event-date: 2018-01-28
+  month: January
+  year: 2018
+  event-organizer: BRG
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573615202/Logo/Logo_k6yc4p.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 15KM
+      link: /rizal-mountain-run-2018/15KM
+    - title: 30KM
+      link: /rizal-mountain-run-2018/30KM
+    - title: 50KM
+      link: /rizal-mountain-run-2018/50KM
+
+- id: 62
+  title: ULTRON TITI ULTRA 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Sekolah Kebangsaan Sungai
+  country: Malaysia
+  address: Sekolah Kebangsaan Sungai Tekali Hulu Malaysia
+  event-date: 2018-03-16
+  month: March
+  year: 2018
+  event-organizer: Endurance Nature 
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573626154/Logo/titi-ultra-2018_ymeoeo.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 200KM
+      link: /ultron-titi-ultra-2018/200KM
+    - title: 200KM DG
+      link: /ultron-titi-ultra-2018/200KMDG
+    - title: 250KM
+      link: /ultron-titi-ultra-2018/250KM
+
+- id: 63
+  title: 2018 BACNOTAN TRAIL ULTRA
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: La Union
+  country: Philippines 
+  address: Bacnotan La Union Philippines
+  event-date: 2018-10-27
+  month: October
+  year: 2018
+  event-organizer: LUTRA
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573626331/Logo/lOGO_sclsdl.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 12K
+      link: /2018-bacnotan-trail-ultra/12K
+    - title: 21K
+      link: /2018-bacnotan-trail-ultra/21K
+    - title: 50K
+      link: /2018-bacnotan-trail-ultra/50K
+
+- id: 64
+  title: RINJANI 100 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Lombok
+  country: Philippines
+  address: Lombok, Indonesia
+  event-date: 2018-03-04
+  month: March
+  year: 2018
+  event-organizer: FoneSports Indonesia
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573626435/Logo/Rinjani_eoufbh.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 27K
+      link: /rinjani-100-2018/27K
+    - title: 36K
+      link: /rinjani-100-2018/36K
+    - title: 60K
+      link: /rinjani-100-2018/60K
+    - title: 100K
+      link: /rinjani-100-2018/100K
+
+- id: 65
+  title: PILIPINAS AKYATHLON 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Benguet
+  country:  Philippines
+  address: Itogon Benguet Philippines
+  event-date: 2018-02-02
+  month: February
+  year: 2018
+  event-organizer: Philippine Skyrunning Association
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573617968/Logo/akyathlon-logo-new_ifndai.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Vertical KM
+      link: /pilipinas-akyathlon-2018/VERTICALKM
+    - title: Kiddie Akyathlon 
+      link: /pilipinas-akyathlon-2018/KIDDIE
+    - title: 10KM
+      link: /pilipinas-akyathlon-2018/10KM
+    - title: 25KM
+      link: /pilipinas-akyathlon-2018/25KM
+    - title: 46KM
+      link: /pilipinas-akyathlon-2018/46KM
+
+- id: 66
+  title: AGNO COASTAL RUN 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Pangasinan
+  country: Philippines
+  address: Agno Pangasinan Philippines
+  event-date: 2018-10-21
+  month: 
+  year: 2018
+  event-organizer: Philippine Skyrunning Association
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573626678/Logo/Agno_bw3kpu.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 7KM Coastal Run
+      link: /agno-coastal-run-2018/7KM
+    - title: 22KM Coastal Run
+      link: /agno-coastal-run-2018/22KM
+
+- id: 67
+  title: TAWID MOUNTAIN MARATHON 2018
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Bontoc
+  country: Philippines
+  address: Bontoc Mountain Province Philippines
+  event-date: 2018-06-09
+  month: June
+  year: 2018
+  event-organizer: Tawid Multisports Group
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574389629/Logo/tawid2018_logo_t3op5o.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Vertical KM
+      link: /tawid-mountain-marathon-2018/VERTICALKM
+    - title: 6KM 
+      link: /tawid-mountain-marathon-2018/6KM
+    - title: 12KM
+      link: /tawid-mountain-marathon-2018/12KM
+    - title: 22KM
+      link: /tawid-mountain-marathon-2018/22KM
+    - title: 42KM
+      link: /tawid-mountain-marathon-2018/42KM
+
+- id: 68
+  title: TAWID MOUNTAIN MARATHON 2017
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Bontoc
+  country: Philippines
+  address: Bontoc Mountain Province Philippines
+  event-date: 2017-04-29
+  month: April
+  year: 2017
+  event-organizer: Tawid Multisports Group
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574389445/Logo/tawid_logo_2017_facfcf.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 12KM
+      link: /tawid-mountain-marathon-2017/12KM
+    - title: 22KM
+      link: /tawid-mountain-marathon-2017/22KM
+    - title: 42KM
+      link: /tawid-mountain-marathon-2017/42KM
+
+- id: 69
+  title: KING OF THE MOUNTAIN TRAIL RUN 2017
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Kayapa
+  country: Philippines
+  address: Kayapa Nueva Ecija Philippines
+  event-date: 2017-05-01
+  month: May
+  year: 2017
+  event-organizer: KOTM
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574389360/Logo/kotmnewlogo_t9vtqr.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: P1
+      link: /king-of-mountain-trail-2017/P1
+    - title: H1
+      link: /king-of-mountain-trail-2017/H1
+
+- id: 70
+  title: 2017 PILIPINAS AKYATHLON
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Binga
+  country: Philippines
+  address: Binga Indigenous Peoples Cultural Heritage Site Philippines
+  event-date: 2017-02-05
+  month: February
+  year: 2017
+  event-organizer: Philippine Skyrunning Association
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574389257/Logo/logo_znhnls.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 10KM
+      link: /2017-pilipinas-akyathlon/10KM
+    - title: 25KM
+      link: /2017-pilipinas-akyathlon/25KM
+    - title: 42KM
+      link: /2017-pilipinas-akyathlon/42KM
+
+- id: 71
+  title: GRIT ALL WOMEN TRAIL RUN 2017
+  event-filter: 
+    - filter: trailrun
+  city: Rizal
+  country: Philippines
+  address: Basekamp San Mateo Rizal Philippines
+  event-date: 2017-07-13
+  month: August
+  year: 2017
+  event-organizer: RaceYaya
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574389137/Logo/a04c0-grit-logo_yxzsau.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Kiddie
+      link: /grit-women-trailrun-2017/KIDDIE
+    - title: Sub Sandi Challenge
+      link: /grit-women-trailrun-2017/SUBSANDI
+    - title: Sweet 6K
+      link: /grit-women-trailrun-2017/6K
+    - title: Fierce 15K
+      link: /grit-women-trailrun-2017/15K
+
+- id: 72
+  title: BTS ULTRA 2017
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Indonesia
+  country: Java
+  address: Bromo Tengger Semeru National Park East Java Indonesia
+  event-date: 2017-11-03
+  month: November
+  year: 2017
+  event-organizer: FoneSports Indonesia
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574389068/Logo/btsultra-profilpic_qfpjxb.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 30KM
+      link: /bts-ultra-2017/30KM
+    - title: 70KM
+      link: /bts-ultra-2017/70KM
+    - title: 102KM
+      link: /bts-ultra-2017/102KM
+    - title: 170KM
+      link: /bts-ultra-2017/170KM
+
+- id: 73
+  title: 2017 BACNOTAN TRAIL ULTRA CHALLENGE
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Bacnotan Town Plaza
+  country: Philippines
+  address: Bacnotan Town Plaza La Union Philippines
+  event-date: 2017-12-17
+  month: December
+  year: 2017
+  event-organizer: Bacnotan Trail Ultra
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573626331/Logo/lOGO_sclsdl.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 12K
+      link: /bacnotan-trail-ultra-2017/12K
+    - title: 21K
+      link: /bacnotan-trail-ultra-2017/21K
+    - title: 50K
+      link: /bacnotan-trail-ultra-2017/50K
+
+- id: 74
+  title: TITI ULTRA 2017
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Hulu Langat Batu
+  country: Malaysia
+  address: Hulu Langat Batu 14 Malaysia
+  event-date: 2017-03-16
+  month: March
+  year: 2017
+  event-organizer: Endurance Nature
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574388892/Logo/titi250km_2017_logo_vstx0h.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 200KM
+      link: /titi-ultra-2017/200KM
+    - title: 200KM DG
+      link: /titi-ultra-2017/200KMDG
+    - title: 250KM
+      link: /titi-ultra-2017/250KM
+
+- id: 75
+  title: STC QC FUN RUN 2016
+  event-filter: 
+    - filter: roadrun
+  city: Quezon
+  country: Philippines
+  address: St Theresa College Quezon City
+  event-date: 2016-11-27
+  month: November
+  year: 2016
+  event-organizer: St Theresa College
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574388789/Logo/Fun_Run_Poster_tgejen.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 3K
+      link: /stc-qc-funrun-2016/3K
+    - title: 5K Bus Transport Female
+      link: /stc-qc-funrun-2016/5KBTFEMALE
+    - title: 5K Bus Transport Male
+      link: /stc-qc-funrun-2016/5KBTMALE
+    - title: 5K High School
+      link: /stc-qc-funrun-2016/5KHS
+    - title: 5K Parent Female
+      link: /stc-qc-funrun-2016/5KPFEMALE
+    - title: 5K Parent Male
+      link: /stc-qc-funrun-2016/5KPMALE
+    - title: 5K Support HS Female
+      link: /stc-qc-funrun-2016/5KSHSFEMALE
+    - title: 5k Support HS Male
+      link: /stc-qc-funrun-2016/5KSHSMALE
+    - title: 5K Support GS Female
+      link: /stc-qc-funrun-2016/5KGSFEMALE
+
+- id: 76
+  title: 2017 RIZAL MOUNTAIN RUN
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: San Mateo Rizal
+  country: Philippines
+  address: Pintong Bukawe San Mateo Rizal Philippines
+  event-date: 2017-01-29
+  month: January
+  year: 2017
+  event-organizer: BRG
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574388626/Logo/Logo_wpfrkk.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 15KM
+      link: /2017-rizal-mountain-run/15KM
+    - title: 30KM
+      link: /2017-rizal-mountain-run/30KM
+    - title: 50KM
+      link: /2017-rizal-mountain-run/50KM
+
+- id: 77
+  title: LAGALAG SUNDOWN TRAIL RUN 2017
+  event-filter: 
+    - filter: trailrun
+  city: San Mateo Rizal
+  country: Philippines
+  address: Timberland Heights San Mateo Rizal Philippines
+  event-date: 2017-04-08
+  month: April
+  year: 2017
+  event-organizer: Lagalag
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574388429/Logo/Lagalag-Sundown-Trail-Run-2017-fb_g5qodp.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 6KM
+      link: /laglag-sundown-trail-2017/6KM
+    - title: 12KM
+      link: /laglag-sundown-trail-2017/12KM
+    - title: 25KM
+      link: /laglag-sundown-trail-2017/25KM
+
+- id: 78
+  title: 2016 MF42 MIYAMIT FALLS TRAIL MARATHON
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Porac Pampanga
+  country: Philippines
+  address: Alviera Porac Pampanga Philippines
+  event-date: 2016-10-04
+  month: October
+  year: 2016
+  event-organizer: Atty Jon Lacanlale
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574388289/Logo/image_iezhv9.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 26K
+      link: /2016-miyamit-falls/26K
+    - title: 42K
+      link: /2016-miyamit-falls/42K
+
+- id: 79
+  title: 2017 COAST 2 COAST 444KM
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: 
+  country: Malaysia
+  address: Malaysia
+  event-date: 2017-07-01
+  month: July
+  year: 2017
+  event-organizer: Endurance Nature
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574387407/Logo/Logo_gcozjy.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 444KM 
+      link: /2017-coast-2-coast/444KM
+
+- id: 80
+  title: ULTRA TRAIL MAPAWA 50 2016
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Cagayan de Oro
+  country: Philippines
+  address: Mapawa Nature Park Cagayan de Oro Philippines
+  event-date: 2016-10-01
+  month: October
+  year: 2016
+  event-organizer: Mapawa Nature Park
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574386563/Logo/image-asset_plfjxn.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 5KM
+      link: /ultra-trail-mapawa-50-2016/5KM
+    - title: 15KM
+      link: /ultra-trail-mapawa-50-2016/15KM
+    - title: 50KM
+      link: /ultra-trail-mapawa-50-2016/50KM
+
+- id: 81
+  title: ULTRA TRAIL MAPAWA 2017
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Cagayan de Oro
+  country: Philippines
+  address: Mapawa Nature Park Cagayan de Oro Philippines
+  event-date: 2017-10-01
+  month: October
+  year: 2017
+  event-organizer: Mapawa Nature Park 
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574386563/Logo/image-asset_plfjxn.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 15K
+      link: /ultra-trail-mapawa-2017/15K
+    - title: 50K
+      link: /ultra-trail-mapawa-2017/50K
+
+- id: 82
+  title: SOLEUS CROSS COUNTRY CHALLENGE 2 2017
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Rizal
+  country: Philippines
+  address: Rizal Philippines
+  event-date: 2017-07-01
+  month: July
+  year: 2017
+  event-organizer: Soleus
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574386221/Logo/profile_photo_kq3r4d.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 12KM
+      link: /soleus-cross-country-2017/12KM
+    - title: 21KM
+      link: /soleus-cross-country-2017/21KM
+
+- id: 83
+  title: MOUNT PINATUBO RUN 2017
+  event-filter: 
+    - filter: trailrun
+  city: Tarlac
+  country: Philippines
+  address: Tarlac City Philippines
+  event-date: 2017-11-01
+  month: November
+  year: 2017
+  event-organizer: Heroes Hotel
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574386116/Logo/Event_Poster_vqknnb.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 5KM
+      link: /mount-pinatubo-run-2017/5KM
+    - title: 10KM
+      link: /mount-pinatubo-run-2017/10KM
+    - title: 25KM
+      link: /mount-pinatubo-run-2017/25KM
+
+- id: 84
+  title: DEADMANS 300 2017
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Rizal
+  country: Philippines
+  address: Rizal Philippines
+  event-date: 2017-10-02
+  month: October
+  year: 2017
+  event-organizer: Marupok
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574385898/Logo/2017-DM300-Logo_ljecaw.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 30KM
+      link: /deadmans-300-2017/30KM
+    - title: 50KM
+      link: /deadmans-300-2017/50KM
+
+- id: 85
+  title: FRASER ULTRA 2017
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Pahang
+  country: Malaysia
+  address: Clock Tower Fraser Hill Pahang Malaysia
+  event-date: 2017-08-19
+  month: August
+  year: 2017
+  event-organizer: Endurance Nature
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1573613535/Logo/logo_mfst7w.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 22KM
+      link: /fraser-ultra-2017/22KM
+    - title: 70KM
+      link: /fraser-ultra-2017/70KM
+    - title: 100KM
+      link: /fraser-ultra-2017/100KM
+
+- id: 86
+  title: Salomon Xtrail Iloilo 2019
+  event-filter: 
+    - filter: trailrun
+  city: Iloilo
+  country: Philippines
+  address: UPV Miago Iloilo Philippines
+  event-date: 2019-11-17
+  month: August
+  year: 2019
+  event-organizer: Salomon Philippines/Pretty Farm Boys
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1574225691/Logo/FB_IMG_1574225620888_l04gqf.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 8K
+      link: /salomon-xtrail-iloilo-2019/8K
+    - title: 17K
+      link: /salomon-xtrail-iloilo-2019/17K
+    - title: 32K
+      link: /salomon-xtrail-iloilo-2019/32K
+
+- id: 87
+  title: Coron Island Swim Challenge 2019
+  event-filter: 
+    - filter: swim
+  city: Palawan
+  country: Philippines
+  address: Royal Island Resort and Watersports, Coron Palawan
+  event-date: 2019-12-08
+  month: December
+  year: 2019
+  event-organizer: Ygnite Multisports Events
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1575958949/Logo/Coron.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 1KM
+      link: /coron-island-swim-2019/1KM
+    - title: 4KM
+      link: /coron-island-swim-2019/4KM
+    - title: 6KM
+      link: /coron-island-swim-2019/6KM
+
+- id: 88
+  title: Coron Island Fun Run 2019
+  event-filter: 
+    - filter: funrun
+  city: Palawan
+  country: Philippines
+  address: Coron, Palawan
+  event-date: 2019-12-08
+  month: December
+  year: 2019
+  event-organizer: Ygnite Multisports Events
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1576030401/Logo/coron_run_rp9tod.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 3KM
+      link: /coron-island-funrun-2019/3KM
+    - title: 5KM
+      link: /coron-island-funrun-2019/5KM
+
+- id: 89
+  title: Penang Eco 100 2018
+  event-filter: 
+    - filter: ultramarathon
+  city: Penang
+  country: Malaysia
+  address: Bukit Mertajam, Penang
+  event-date: 2018-05-12
+  month: May
+  year: 2018
+  event-organizer: Endurance Nature
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1576648106/Logo/Logo_lovxhg.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 100M
+      link: /penang-eco-100-2018/100M
+    - title: 30KM
+      link: /penang-eco-100-2018/30KM
+    - title: 50KM
+      link: /penang-eco-100-2018/50KM
+    - title: 100KM
+      link: /penang-eco-100-2018/100KM
+
+- id: 90
+  title: Impasugong Ridge Marathon
+  event-filter: 
+    - filter: ultramarathon
+    - filter: trailrun
+  city: Bukidnon
+  country: Philippines
+  address: Cedar, Impalutao, Bukidnon Philippines
+  event-date: 2019-09-08
+  month: September
+  year: 2019
+  event-organizer:
+  banner-big: https://res.cloudinary.com/dykbosktl/image/upload/v1576818374/Logo/Impa_Logo_gjhosc.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 10KM
+      link: /impasugong-ridge-marathon-2019/10KM
+    - title: 21KM
+      link: /impasugong-ridge-marathon-2019/21KM
+    - title: 42KM
+      link: /impasugong-ridge-marathon-2019/42KM
+
+- id: 91
+  title: Tagaytay 50KM Ultra
+  event-filter: 
+    - filter: ultramarathon
+  city: Tagaytay
+  country: Philippines
+  address: Tagaytay City Philippines
+  event-date: 2020-01-11
+  month: January
+  year: 2020
+  event-organizer:
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1579252125/logo/tagaytay2020_hsijbi.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 50KM
+      link: /tagaytay-50-2020/50KM
+
+- id: 92
+  title: Evil Trails 2020
+  event-filter: 
+    - filter: trailrun
+  city: Phitsalunok
+  country: Thailand
+  address: Phitsalunok Thailand
+  event-date: 2020-01-19
+  month: January
+  year: 2020
+  event-organizer: Teelakow Ltd
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1579480618/logo/evil-trails_wm80bv.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 15K
+      link: /evil-trails-2020/15K
+    - title: 30K
+      link: /evil-trails-2020/30K
+    - title: 50K
+      link: /evil-trails-2020/50K
+
+
+- id: 93
+  title: Pilipinas Akyathlon 2020
+  event-filter: 
+    - filter: trailrun
+  city: Benguet
+  country: Philippines
+  address: Itogon, Benguet Philippines
+  event-date: 2020-02-01
+  month: February
+  year: 2020
+  event-organizer: Philippine Skyrunning Association
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1581034212/logo/ph-akyathlon_ldmu3f.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: KIDS
+      link: /pilipinas-akyathlon-2020/KIDS
+    - title: VK
+      link: /pilipinas-akyathlon-2020/VK
+    - title: 10KM
+      link: /pilipinas-akyathlon-2020/10KM
+    - title: 25KM
+      link: /pilipinas-akyathlon-2020/25KM
+    - title: 49KM
+      link: /pilipinas-akyathlon-2020/49KM
+
+
+- id: 94
+  title: Dahilayan Adventure Trail Run
+  event-filter: 
+    - filter: trailrun
+  city: Bukidnon
+  country: Philippines
+  address: Dahilayan Adventure Park, Bukidnon
+  event-date: 2020-02-09
+  month: February
+  year: 2020
+  event-organizer: Infinite Trails
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1581841107/logo/2020/dahilayan-adventure-park-2020_gve1jp.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 5KM
+      link: /dahilayan-adventure-trail-run-2020/5KM
+    - title: 10KM
+      link: /dahilayan-adventure-trail-run-2020/10KM
+    - title: 21KM
+      link: /dahilayan-adventure-trail-run-2020/21KM
+
+- id: 95
+  title: Ultimate Trails of the South
+  event-filter: 
+    - filter: trailrun
+    - filter: ultramarathon
+  city: Johor
+  country: Malaysia
+  address: Kota Tinggi Water Falls,  Johor, Malaysia
+  event-date: 2020-02-08
+  month: February
+  year: 2020
+  event-organizer: Endurance Nature Malaysia
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1581841103/logo/2020/ultimate-trails-2020_i93dfj.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 15KM
+      link: /ultimate-trails-of-the-south-2020/15KM
+    - title: 35KM
+      link: /ultimate-trails-of-the-south-2020/35KM
+    - title: 50KM
+      link: /ultimate-trails-of-the-south-2020/50KM
+
+- id: 96
+  title: A Taste of Antique Trails
+  event-filter: 
+    - filter: trailrun
+  city: Antique
+  country: Philippines
+  address: Aningalan, Antique
+  event-date: 2020-02-09
+  month: February
+  year: 2020
+  event-organizer: ART Running
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1581923594/logo/2020/atat-2020_zzhtph.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 8KM
+      link: /atat-2020/8KM
+    - title: 16KM
+      link: /atat-2020/16KM
+    - title: 25KM
+      link: /atat-2020/25KM
+
+- id: 97
+  title: RUN THE PHILIPPINE MOUNTAINS
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country: Whenever You Are
+  address:
+  event-date: 2020-07-25
+  month: July
+  year: 2020
+  event-organizer: RaceYaya / T8 Philippines
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1595251780/logo/2020/Image_ds2u6w.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: RunPH Progress
+      link: /runph-2020/runph-progress
+    - title: Level 1
+      link: /runph-2020/day1
+    - title: Level 2
+      link: /runph-2020/day2
+    - title: Level 3
+      link: /runph-2020/day3
+    - title: Level 4
+      link: /runph-2020/day4
+    - title: Level 5
+      link: /runph-2020/day5
+    - title: Level 6
+      link: /runph-2020/day6
+    - title: Level 7
+      link: /runph-2020/day7
+    
+- id: 98
+  title: 2ND RUN THE PHILIPPINE MOUNTAINS
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country: Whenever You Are
+  address:
+  event-date: 2020-08-31
+  month: August
+  year: 2020
+  event-organizer: RaceYaya / T8 Philippines
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1598791251/2nd_RUPM_ddesij.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Level Up 3000
+      link: /2ndrunph-2020/3000
+    - title: Climb 2000
+      link: /2ndrunph-2020/2000
+    - title: Hike 1500
+      link: /2ndrunph-2020/1500
+    - title: Sprint 500
+      link: /2ndrunph-2020/500
+    - title: Log
+      link: /2ndrunph-2020/log
+
+- id: 99
+  title: Pilipinas Duathlon Series 2020 Quarantined Edition Leg 1
+  event-filter: 
+    - filter: duathlon
+  city:
+  country: Philippines
+  address:
+  event-date: 2020-09-21
+  month: September
+  year: 2020
+  event-organizer: Adrenaline Multisports
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1600494253/PDSLeg1.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Participants
+      link: /pdsl1-2020/participant
+
+- id: 100
+  title: 9th All Women Ultra Marathon 
+  event-filter: 
+    - filter: ultramarathon
+  city:
+  country: Philippines
+  address:
+  event-date: 2020-10-11
+  month: October
+  year: 2020
+  event-organizer: ThinkTank 
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1602227002/10CB9A1D-4FF2-4FEC-BCB9-63DD1E148A9D_hlcl3g.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 50K Finisher
+      link: /awum-2020/50kfinisher
+    - title: Daily Log
+      link: /awum-2020/daily-log
+
+- id: 101
+  title: Pilipinas Duathlon Series 2020 Quarantined Edition Leg 2
+  event-filter: 
+    - filter: duathlon
+  city:
+  country: Philippines
+  address:
+  event-date: 2020-10-25
+  month: October
+  year: 2020
+  event-organizer: Adrenaline Multisports 
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1603581872/41E92198-22DE-4F19-946A-F3E262850A63_n9inde.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Finisher
+      link: /pdsl22020/finisher
+    - title: Participants
+      link: /pdsl22020/participant
+
+- id: 102
+  title: Virtual MesaStila100
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country: Indonesia
+  address: Magelang Central Java
+  event-date: 2020-11-01
+  month: November
+  year: 2020
+  event-organizer: Sri Agus Budi Santosa 
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1604112863/3B3F7463-9336-4572-9F07-069DCA7D2527_ndaoxk.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Rank to Date
+      link: /mesastila100-2020/ranktodate
+    - title: Week 4 Finishers
+      link: /mesastila100-2020/week4finisher
+    - title: Week 3 Finishers
+      link: /mesastila100-2020/week3finisher
+    - title: Week 2 Finishers
+      link: /mesastila100-2020/week2finisher
+    - title: Week 1 Finishers
+      link: /mesastila100-2020/week1finisher
+    - title: Week 4 log
+      link: /mesastila100-2020/week4log
+    - title: Week 3 log
+      link: /mesastila100-2020/week3log
+    - title: Week 2 log
+      link: /mesastila100-2020/week2log
+    - title: Week 1 log
+      link: /mesastila100-2020/week1log
+    - title: Participants
+      link: /mesastila100-2020/participant
+
+- id: 103
+  title: Pilipinas Duathlon Series 2020 Quarantined Edition Final Leg
+  event-filter: 
+    - filter: duathlon
+  city:
+  country: Philippines 
+  address: Philippines
+  event-date: 2020-11-23
+  month: November
+  year: 2020
+  event-organizer: Adrenaline Multisports
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1603581872/41E92198-22DE-4F19-946A-F3E262850A63_n9inde.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Finisher
+      link: /pdsl32020/finisher
+    - title: Participant
+      link: /pdsl32020/participant
+
+- id: 104
+  title: Szkornik and Neil Trail 2020
+  event-filter: 
+    - filter: trailrun
+  city:
+  country: Philippines 
+  address: Igbical, Hamtic, Antique
+  event-date: 2020-11-29
+  month: November
+  year: 2020
+  event-organizer: 
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1606982938/logo/antiruq-trails2020_ttinm3.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 5KM
+      link: /antique-trail-2020/5KM
+    - title: 10KM
+      link: /antique-trail-2020/10KM
+
+- id: 105
+  title: Pilipinas Duathlon - Quarantined Edition Annual Rank
+  event-filter: 
+    - filter: duathlon
+  city:
+  country: Philippines 
+  address:
+  event-date: 2020-12-04
+  month: December
+  year: 2020
+  event-organizer: Adrenaline Multisports
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1603581872/41E92198-22DE-4F19-946A-F3E262850A63_n9inde.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: '2020 Duathlon Summary  Leg 1-3'
+      link: /pdslanualrank-2020/annualrank
+
+- id: 106
+  title: POSF Conquer the Leaderboard
+  event-filter: 
+    - filter: virtualrun
+  city: Taguig City
+  country: Philippines 
+  address: Pretty Huge Obstacles, Taguig City, Philippines
+  event-date: 2020-12-12
+  month: December
+  year: 2020
+  event-organizer: 
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1607997702/logo/2020/Conquer_the_leaderboard_bvkmom.jpg
+  timing-solution: Team Adrenaline
+  race-categories:
+    - title: 'Ninja leaderboard'
+      link: /posf2020/ninja
+    - title: 'PARA OCR'
+      link: /posf2020/ocr
+
+- id: 107
+  title: Alicia Virtual Ultra
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country: Philippines 
+  address: 
+  event-date: 2020-12-23
+  month: December
+  year: 2020
+  event-organizer: Bohol Trail Adventure
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1610415351/logo/2021/Alicia_Ultra_Logo_transparent_f8rwad.png
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 12K
+      link: /aliciavirtualultra2020/12K
+    - title: 25K
+      link: /aliciavirtualultra2020/25K
+    - title: 50K
+      link: /aliciavirtualultra2020/50K
+
+- id: 108
+  title: Climathon Virtual Marathon
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country: Philippines 
+  address: Anywhere
+  event-date: 2020-12-19
+  month: December
+  year: 2020
+  event-organizer: 'Climathon Paranaque/Evegrocer'
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1610415350/logo/2021/climathon-virtual-marathon_zvzuyk.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: 10K
+      link: /climathon2020/10K
+    - title: 21K
+      link: /climathon2020/21K
+    - title: 42K
+      link: /climathon2020/42K
+
+- id: 109
+  title: Run for Wawa
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country: Philippines 
+  address:
+  event-date: 2021-02-01
+  month: February
+  year: 2021
+  event-organizer: 'RaceYaya/UP Mountaineers'
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1612407562/logo/2021/i-ran-wawa-logo_syijlo.jpg
+  timing-solution: RaceYaya
+  race-categories:
+    - title: Week 1
+      link: /runwawa2021/week1
+    - title: Week 2
+      link: /runwawa2021/week2
+    - title: Week 3
+      link: /runwawa2021/week3
+    - title: Week 4
+      link: /runwawa2021/week4
+    - title: Month leaderboard
+      link: /runwawa2021/monthleader
+    - title: Donors
+      link: /runwawa2021/donors
+
+- id: 110
+  title: "NINJA BOX - POSF QUALIFIER"
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country: Philippines 
+  address: "PHO, Taguig City, Philippines"
+  event-date: 2021-02-27
+  month: February
+  year: 2021
+  event-organizer: 'Philippine Obstacle Sports Federation'
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1614821630/logo/2021/NINJA_BOX_POSF_QUALIFIERS_rh9bqm.png
+  timing-solution: "Adrenaline Multisport/RaceYaya"
+  race-categories:
+    - title: Overall
+      link: /posf-2021/overall
+    - title: PARA
+      link: /posf-2021/para
+
+- id: 111
+  title: "Race for Positive Change"
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country:
+  address: "Virtual Run"
+  event-date: 2021-04-01
+  month: April
+  year: 2021
+  event-organizer: 'JCI Cauayan'
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1617868151/logo/2021/race-for-positive-change_rxrt7d.png
+  timing-solution: "Raceyaya"
+  race-categories:
+    - title: 600K
+      link: /race-positive-change-2021/600K
+
+- id: 112
+  title: "Run for Positive Change"
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country:
+  address: "Virtual Run"
+  event-date: 2021-04-01
+  month: April
+  year: 2021
+  event-organizer: 'JCI Cauayan'
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1617715679/logo/2021/run-for-positive-change_nnfcgq.jpg
+  timing-solution: "Raceyaya"
+  race-categories:
+    - title: '100K / 200K'
+      link: /run-positive-change-2021/200K
+
+- id: 113
+  title: "Just Move"
+  event-filter: 
+    - filter: virtualrun
+  city:
+  country:
+  address: "Virtual Workout"
+  event-date: 2021-04-14
+  month: April
+  year: 2021
+  event-organizer: 'Raceyaya'
+  banner-big: https://res.cloudinary.com/raceyaya/image/upload/v1618572770/logo/2021/just-move-banner_gd6fn7.png
+  timing-solution: "Raceyaya"
+  race-categories:
+    - title: 'Initial Results'
+      link: /just-move-2021/initial
+
+
+
+
+
+
+
+
+
+
